@@ -4,9 +4,9 @@ interface selectType {
 }
 
 export const faculties: Array<selectType> = [
-	{label: 'CBC UBA XXI', 'cbc-uba-xxi'},
-	{label: 'CBC Presencial', 'cbc-presencial'}
-]
+	{ label: "CBC UBA XXI", value: "cbc-uba-xxi" },
+	{ label: "CBC Presencial", value: "cbc-presencial" },
+];
 
 export const subjects: Array<selectType> = [
 	/*{ label: 'ÁLGEBRA', value: 'algebra' },
