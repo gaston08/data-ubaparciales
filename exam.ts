@@ -3,6 +3,11 @@ interface selectType {
 	value: string;
 }
 
+export const faculties: Array<selectType> = [
+	{label: 'CBC UBA XXI', 'cbc-uba-xxi'},
+	{label: 'CBC Presencial', 'cbc-presencial'}
+]
+
 export const subjects: Array<selectType> = [
 	/*{ label: 'ÁLGEBRA', value: 'algebra' },
 	{ label: 'ANÁLISIS MATEMÁTICO', value: 'analisis-matematico' },
