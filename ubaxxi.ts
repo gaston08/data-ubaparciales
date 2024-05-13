@@ -1,10 +1,12 @@
 interface selectType {
 	label: string;
 	value: string;
+	short: string;
+	long: string;
 }
 
 export const subjects: Array<selectType> = [
-	{
+	/*{
 		label: "Álgebra (71)",
 		value: "algebra-(71)",
 	},
@@ -59,7 +61,7 @@ export const subjects: Array<selectType> = [
 	{
 		label: "Historia Económica y Social General (74)",
 		value: "historia-economica-y-social-general-(74)",
-	},
+	},*/
 	{
 		short: "ICSE",
 		long: "Introducción al Conocimiento de la Sociedad y el Estado",
@@ -67,7 +69,7 @@ export const subjects: Array<selectType> = [
 			"Introducción al Conocimiento de la Sociedad y el Estado (ICSE) (24)",
 		value:
 			"introduccion-al-conocimiento-de-la-sociedad-y-el-estado-(icse)-(24)",
-	},
+	} /*
 	{
 		label: "Introducción al Conocimiento Proyectual I (46)",
 		value: "introduccion-al-conocimiento-proyectual-i-(46)",
@@ -75,13 +77,13 @@ export const subjects: Array<selectType> = [
 	{
 		label: "Introducción al Conocimiento Proyectual II (47)",
 		value: "introduccion-al-conocimiento-proyectual-ii-(47)",
-	},
+	},*/,
 	{
 		short: "IPC",
 		long: "Introducción al Pensamiento Científico",
 		label: "Introducción al Pensamiento Científico (40)",
 		value: "introduccion-al-pensamiento-cientifico-(40)",
-	},
+	} /*
 	{
 		label: "Matemática (51)",
 		value: "matematica-(51)",
@@ -125,5 +127,5 @@ export const subjects: Array<selectType> = [
 	{
 		label: "Trabajo y Sociedad (70)",
 		value: "trabajo-y-sociedad-(70)",
-	},
+	},*/,
 ];
