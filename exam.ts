@@ -83,25 +83,16 @@ export const exam_types: Array<selectType> = [
 	},
 ];
 
-interface departmentsType {
-	[SUBJECTS_ENUM.PENSAMIENTO_CIENTIFICO]: Array<selectType>;
-	[SUBJECTS_ENUM.SOCIEDAD_Y_ESTADO]: Array<selectType>;
-}
-
-export const departments: departmentsType = {
-	"pensamiento-cientifico": [
-		{
-			label: "(Cátedra: BUACAR, Natalia)",
-			value: "catedra-buacar-natalia",
-		},
-	],
-	"sociedad-y-estado": [
-		{
-			label: "(Cátedra: PEDROSA, Fernando)",
-			value: "catedra-pedrosa-fernando",
-		},
-	],
-};
+export const departments: Array<selectType> = [
+	{
+		label: "(Cátedra: BUACAR, Natalia)",
+		value: "catedra-buacar-natalia",
+	},
+	{
+		label: "(Cátedra: PEDROSA, Fernando)",
+		value: "catedra-pedrosa-fernando",
+	},
+];
 
 export const exam_numbers: Array<number> = [
 	1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20,
