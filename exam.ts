@@ -92,6 +92,10 @@ export const departments: Array<selectType> = [
 		label: "(Cátedra: PEDROSA, Fernando)",
 		value: "catedra-pedrosa-fernando",
 	},
+	{
+		label: "(Cátedra: VIZIOLI, Nicolás)",
+		value: "catedra-vizioli-nicolas",
+	},
 ];
 
 export const exam_numbers: Array<number> = [
