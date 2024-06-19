@@ -124,8 +124,9 @@ export const subjects: Array<selectType> = [
 		label: "Taller de Dibujo (48)",
 		value: "taller-de-dibujo-(48)",
 	},
+	*/,
 	{
 		label: "Trabajo y Sociedad (70)",
 		value: "trabajo-y-sociedad-(70)",
-	},*/,
+	},
 ];

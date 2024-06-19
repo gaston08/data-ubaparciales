@@ -8,49 +8,6 @@ export const faculties: Array<selectType> = [
 	{ label: "CBC Presencial", value: "cbc-presencial" },
 ];
 
-export const subjects: Array<selectType> = [
-	/*{ label: 'ÁLGEBRA', value: 'algebra' },
-	{ label: 'ANÁLISIS MATEMÁTICO', value: 'analisis-matematico' },
-	{
-		label: 'ANÁLISIS MATEMÁTICO PARA CS. ECONÓMICAS',
-		value: 'analisis-matematico-para-cs-economicas',
-	},
-	{ label: 'ANTROPOLOGÍA', value: 'antropologia' },
-	{ label: 'BIOFÍSICA', value: 'biofisica' },
-	{ label: 'BIOLOGÍA', value: 'biologia' },
-	{ label: 'BIOLOGÍA CELULAR', value: 'biologia-celular' },
-	{ label: 'CIENCIAS POLÍTICAS', value: 'ciencias-politicas' },
-	{
-		label: 'DERECHOS HUMANOS Y DERECHO CONSTITUCIONAL',
-		value: 'derechos-humanos-y-derecho-constitucional',
-	},
-	{ label: 'ECONOMÍA', value: 'economia' },
-	{ label: 'FILOSOFÍA', value: 'filosofia' },
-	{ label: 'FÍSICA', value: 'fisica' },
-	{
-		label: 'HISTORIA ECONÓMICA SOCIAL Y GENERAL',
-		value: 'historia-economica-social-y-general',
-	},
-	{ label: 'MATEMÁTICA', value: 'matematica' },
-	{ label: 'MATEMÁTICA PARA AGRONOMÍA', value: 'matematica-para-agronomia' },*/
-	{ label: "PENSAMIENTO CIENTÍFICO", value: "pensamiento-cientifico" },
-	/*
-	{ label: 'PENSAMIENTO COMPUTACIONAL', value: 'pensamiento-computacional' },
-	{
-		label: 'PRINCIPIOS GENERALES DE DERECHO PRIVADO',
-		value: 'principios-generales-de-derecho-privado',
-	},
-	{ label: 'PSICOLOGÍA', value: 'psicologia' },
-	{ label: 'QUÍMICA', value: 'quimica' },
-	{ label: 'SEMIOLOGÍA', value: 'semiologia' },
-	*/
-	{ label: "SOCIEDAD Y ESTADO", value: "sociedad-y-estado" },
-	/*
-	{ label: 'SOCIOLOGÍA', value: 'sociologia' },
-	{ label: 'TRABAJO Y SOCIEDAD', value: 'trabajo-y-sociedad' },
-	*/
-];
-
 export enum SUBJECTS_ENUM {
 	PENSAMIENTO_CIENTIFICO = "pensamiento-cientifico",
 	SOCIEDAD_Y_ESTADO = "sociedad-y-estado",
