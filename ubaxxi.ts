@@ -1,11 +1,17 @@
-interface selectType {
+export interface selectInterface {
 	label: string;
 	value: string;
 	short: string;
 	long: string;
+	departments: Array<departmentInterface>;
 }
 
-export const subjects: Array<selectType> = [
+export interface departmentInterface {
+	label: string;
+	value: string;
+}
+
+export const subjects: Array<selectInterface> = [
 	/*{
 		label: "Álgebra (71)",
 		value: "algebra-(71)",
@@ -69,6 +75,12 @@ export const subjects: Array<selectType> = [
 			"Introducción al Conocimiento de la Sociedad y el Estado (ICSE) (24)",
 		value:
 			"introduccion-al-conocimiento-de-la-sociedad-y-el-estado-(icse)-(24)",
+		departments: [
+			{
+				label: "(Cátedra: PEDROSA, Fernando)",
+				value: "catedra-pedrosa-fernando",
+			},
+		],
 	} /*
 	{
 		label: "Introducción al Conocimiento Proyectual I (46)",
@@ -83,6 +95,16 @@ export const subjects: Array<selectType> = [
 		long: "Introducción al Pensamiento Científico",
 		label: "Introducción al Pensamiento Científico (40)",
 		value: "introduccion-al-pensamiento-cientifico-(40)",
+		departments: [
+			{
+				label: "(Cátedra: BUACAR, Natalia)",
+				value: "catedra-buacar-natalia",
+			},
+			{
+				label: "(Cátedra: VIZIOLI, Nicolás)",
+				value: "catedra-vizioli-nicolas",
+			},
+		],
 	} /*
 	{
 		label: "Matemática (51)",
@@ -128,5 +150,11 @@ export const subjects: Array<selectType> = [
 	{
 		label: "Trabajo y Sociedad (70)",
 		value: "trabajo-y-sociedad-(70)",
+		departments: [
+			{
+				value: "catedra-de-gisi-ricardo",
+				label: "(Cátedra: DE GISI, Ricardo)",
+			},
+		],
 	},
 ];

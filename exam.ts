@@ -9,8 +9,9 @@ export const faculties: Array<selectType> = [
 ];
 
 export enum SUBJECTS_ENUM {
-	PENSAMIENTO_CIENTIFICO = "pensamiento-cientifico",
-	SOCIEDAD_Y_ESTADO = "sociedad-y-estado",
+	PENSAMIENTO_CIENTIFICO = "introduccion-al-pensamiento-cientifico-(40)",
+	SOCIEDAD_Y_ESTADO = "introduccion-al-conocimiento-de-la-sociedad-y-el-estado-(icse)-(24)",
+	TRABAJO_Y_SOCIEDAD = "trabajo-y-sociedad-(70)",
 }
 
 export const years: Array<number> = [
@@ -37,21 +38,6 @@ export const exam_types: Array<selectType> = [
 	{
 		label: "Final",
 		value: "final",
-	},
-];
-
-export const departments: Array<selectType> = [
-	{
-		label: "(Cátedra: BUACAR, Natalia)",
-		value: "catedra-buacar-natalia",
-	},
-	{
-		label: "(Cátedra: PEDROSA, Fernando)",
-		value: "catedra-pedrosa-fernando",
-	},
-	{
-		label: "(Cátedra: VIZIOLI, Nicolás)",
-		value: "catedra-vizioli-nicolas",
 	},
 ];
 
