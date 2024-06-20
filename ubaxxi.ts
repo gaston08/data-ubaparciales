@@ -117,15 +117,30 @@ export const subjects: Array<selectInterface> = [
 	{
 		label: "Pensamiento Computacional (90)",
 		value: "pensamiento-computacional-(90)",
-	},
+	},*/,
 	{
+		short: "DDHH y Derecho Constitucional",
 		label: "Principios de Derechos Humanos y Derecho Constitucional (50)",
 		value: "principios-de-derechos-humanos-y-derecho-constitucional-(50)",
+		departments: [
+			{
+				label: "(Cátedra: RINALDI, Luciano)",
+				value: "catedra-rinaldi-luciano",
+			},
+		],
 	},
 	{
+		short: "Derecho Privado",
 		label: "Principios Generales de Derecho Privado (89)",
 		value: "principios-generales-de-derecho-privado-(89)",
+		departments: [
+			{
+				label: "(Cátedra: GENOVESI, Mariano)",
+				value: "catedra-genovesi-mariano",
+			},
+		],
 	},
+	/*
 	{
 		label: "Psicología (15)",
 		value: "psicologia-(15)",
@@ -146,8 +161,7 @@ export const subjects: Array<selectInterface> = [
 		label: "Taller de Dibujo (48)",
 		value: "taller-de-dibujo-(48)",
 	},
-	*/,
-	{
+	*/ {
 		label: "Trabajo y Sociedad (70)",
 		value: "trabajo-y-sociedad-(70)",
 		departments: [
