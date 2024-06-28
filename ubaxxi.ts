@@ -120,6 +120,7 @@ export const subjects: Array<selectInterface> = [
 	},*/,
 	{
 		short: "DDHH y Derecho Constitucional",
+		long: "Principios de Derechos Humanos y Derecho Constitucional",
 		label: "Principios de Derechos Humanos y Derecho Constitucional (50)",
 		value: "principios-de-derechos-humanos-y-derecho-constitucional-(50)",
 		departments: [
@@ -131,6 +132,7 @@ export const subjects: Array<selectInterface> = [
 	},
 	{
 		short: "Derecho Privado",
+		long: "Principios Generales de Derecho Privado",
 		label: "Principios Generales de Derecho Privado (89)",
 		value: "principios-generales-de-derecho-privado-(89)",
 		departments: [
@@ -162,6 +164,8 @@ export const subjects: Array<selectInterface> = [
 		value: "taller-de-dibujo-(48)",
 	},
 	*/ {
+		short: "Trabajo y Sociedad",
+		long: "",
 		label: "Trabajo y Sociedad (70)",
 		value: "trabajo-y-sociedad-(70)",
 		departments: [
