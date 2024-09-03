@@ -118,6 +118,8 @@ export const subjects: Array<selectInterface> = [
 		label: "Pensamiento Computacional (90)",
 		value: "pensamiento-computacional-(90)",
 	},*/,
+
+	/*
 	{
 		short: "DDHH y Derecho Constitucional",
 		long: "Principios de Derechos Humanos y Derecho Constitucional",
@@ -141,7 +143,7 @@ export const subjects: Array<selectInterface> = [
 				value: "catedra-genovesi-mariano",
 			},
 		],
-	},
+	},*/
 	/*
 	{
 		label: "Psicología (15)",
@@ -163,7 +165,7 @@ export const subjects: Array<selectInterface> = [
 		label: "Taller de Dibujo (48)",
 		value: "taller-de-dibujo-(48)",
 	},
-	*/ {
+	*/ /*{
 		short: "Trabajo y Sociedad",
 		long: "",
 		label: "Trabajo y Sociedad (70)",
@@ -174,5 +176,5 @@ export const subjects: Array<selectInterface> = [
 				label: "(Cátedra: DE GISI, Ricardo)",
 			},
 		],
-	},
+	},*/
 ];
