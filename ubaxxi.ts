@@ -27,11 +27,11 @@ export const subjects: Array<selectInterface> = [
 	{
 		label: "Análisis Matemático A (66)",
 		value: "analisis-matematico-a-(66)",
-	},
+	},*/
 	{
 		label: "Antropología (16)",
 		value: "antropologia-(16)",
-	},
+	} /*
 	{
 		label: "Biología (08)",
 		value: "biologia-(08)",
@@ -67,7 +67,7 @@ export const subjects: Array<selectInterface> = [
 	{
 		label: "Historia Económica y Social General (74)",
 		value: "historia-economica-y-social-general-(74)",
-	},*/
+	},*/,
 	{
 		short: "ICSE",
 		long: "Introducción al Conocimiento de la Sociedad y el Estado",
