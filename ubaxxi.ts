@@ -31,6 +31,14 @@ export const subjects: Array<selectInterface> = [
 	{
 		label: "Antropología (16)",
 		value: "antropologia-(16)",
+		short: "Antropología",
+		long: "Antropología (16)",
+		departments: [
+			{
+				label: "(Cátedra: VARGAS, Patricia)",
+				value: "catedra-vargas-patricia",
+			},
+		],
 	} /*
 	{
 		label: "Biología (08)",
