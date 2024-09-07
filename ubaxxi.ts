@@ -123,10 +123,12 @@ export const subjects: Array<selectInterface> = [
 		label: "Matemática (61)",
 		value: "matematica-(61)",
 	},
+	*/
 	{
 		label: "Pensamiento Computacional (90)",
 		value: "pensamiento-computacional-(90)",
 	},
+	/*
 	{
 		short: "DDHH y Derecho Constitucional",
 		long: "Principios de Derechos Humanos y Derecho Constitucional",
