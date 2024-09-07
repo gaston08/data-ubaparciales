@@ -127,6 +127,14 @@ export const subjects: Array<selectInterface> = [
 	{
 		label: "Pensamiento Computacional (90)",
 		value: "pensamiento-computacional-(90)",
+		short: "Pensamiento Computacional",
+		long: "Pensamiento Computacional (90)",
+		departments: [
+			{
+				label: "(Cátedra: CAMEJO)",
+				value: "catedra-camejo",
+			},
+		],
 	},
 	/*
 	{
