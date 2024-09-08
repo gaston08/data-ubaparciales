@@ -12,7 +12,99 @@ export interface departmentInterface {
 }
 
 export const subjects: Array<selectInterface> = [
-	/*{
+	{
+		label: "Antropología (16)",
+		value: "antropologia-(16)",
+		short: "Antropología",
+		long: "Antropología",
+		departments: [
+			{
+				label: "(Cátedra: VARGAS, Patricia)",
+				value: "catedra-vargas-patricia",
+			},
+		],
+	},
+	{
+		short: "ICSE",
+		long: "Introducción al Conocimiento de la Sociedad y el Estado",
+		label:
+			"Introducción al Conocimiento de la Sociedad y el Estado (ICSE) (24)",
+		value:
+			"introduccion-al-conocimiento-de-la-sociedad-y-el-estado-(icse)-(24)",
+		departments: [
+			{
+				label: "(Cátedra: PEDROSA, Fernando)",
+				value: "catedra-pedrosa-fernando",
+			},
+		],
+	},
+	{
+		short: "IPC",
+		long: "Introducción al Pensamiento Científico",
+		label: "Introducción al Pensamiento Científico (40)",
+		value: "introduccion-al-pensamiento-cientifico-(40)",
+		departments: [
+			{
+				label: "(Cátedra: BUACAR, Natalia)",
+				value: "catedra-buacar-natalia",
+			},
+			{
+				label: "(Cátedra: VIZIOLI, Nicolás)",
+				value: "catedra-vizioli-nicolas",
+			},
+		],
+	},
+	{
+		label: "Pensamiento Computacional (90)",
+		value: "pensamiento-computacional-(90)",
+		short: "Pensamiento Computacional",
+		long: "Pensamiento Computacional",
+		departments: [
+			{
+				label: "(Cátedra: CAMEJO)",
+				value: "catedra-camejo",
+			},
+		],
+	},
+	{
+		short: "Derecho Privado",
+		long: "Principios Generales de Derecho Privado",
+		label: "Principios Generales de Derecho Privado (89)",
+		value: "principios-generales-de-derecho-privado-(89)",
+		departments: [
+			{
+				label: "(Cátedra: GENOVESI, Mariano)",
+				value: "catedra-genovesi-mariano",
+			},
+		],
+	},
+	{
+		short: "Trabajo y Sociedad",
+		long: "Trabajo y Sociedad",
+		label: "Trabajo y Sociedad (70)",
+		value: "trabajo-y-sociedad-(70)",
+		departments: [
+			{
+				value: "catedra-de-gisi-ricardo",
+				label: "(Cátedra: DE GISI, Ricardo)",
+			},
+		],
+	},
+	{
+		label: "Sociología (14)",
+		value: "sociologia-(14)",
+		short: "Sociología",
+		long: "Sociología",
+		departments: [
+			{
+				value: "catedra-a-bustos-juan",
+				label: "(Cátedra A: BUSTOS, Juan)",
+			},
+		],
+	},
+];
+
+/*{
 		label: "Álgebra (71)",
 		value: "algebra-(71)",
 	},
@@ -28,18 +120,8 @@ export const subjects: Array<selectInterface> = [
 		label: "Análisis Matemático A (66)",
 		value: "analisis-matematico-a-(66)",
 	},*/
-	{
-		label: "Antropología (16)",
-		value: "antropologia-(16)",
-		short: "Antropología",
-		long: "Antropología (16)",
-		departments: [
-			{
-				label: "(Cátedra: VARGAS, Patricia)",
-				value: "catedra-vargas-patricia",
-			},
-		],
-	} /*
+
+/*
 	{
 		label: "Biología (08)",
 		value: "biologia-(08)",
@@ -75,21 +157,9 @@ export const subjects: Array<selectInterface> = [
 	{
 		label: "Historia Económica y Social General (74)",
 		value: "historia-economica-y-social-general-(74)",
-	},*/,
-	{
-		short: "ICSE",
-		long: "Introducción al Conocimiento de la Sociedad y el Estado",
-		label:
-			"Introducción al Conocimiento de la Sociedad y el Estado (ICSE) (24)",
-		value:
-			"introduccion-al-conocimiento-de-la-sociedad-y-el-estado-(icse)-(24)",
-		departments: [
-			{
-				label: "(Cátedra: PEDROSA, Fernando)",
-				value: "catedra-pedrosa-fernando",
-			},
-		],
-	} /*
+	},*/
+
+/*
 	{
 		label: "Introducción al Conocimiento Proyectual I (46)",
 		value: "introduccion-al-conocimiento-proyectual-i-(46)",
@@ -97,24 +167,9 @@ export const subjects: Array<selectInterface> = [
 	{
 		label: "Introducción al Conocimiento Proyectual II (47)",
 		value: "introduccion-al-conocimiento-proyectual-ii-(47)",
-	},*/,
-	{
-		short: "IPC",
-		long: "Introducción al Pensamiento Científico",
-		label: "Introducción al Pensamiento Científico (40)",
-		value: "introduccion-al-pensamiento-cientifico-(40)",
-		departments: [
-			{
-				label: "(Cátedra: BUACAR, Natalia)",
-				value: "catedra-buacar-natalia",
-			},
-			{
-				label: "(Cátedra: VIZIOLI, Nicolás)",
-				value: "catedra-vizioli-nicolas",
-			},
-		],
-	},
-	/*
+	},*/
+
+/*
 	{
 		label: "Matemática (51)",
 		value: "matematica-(51)",
@@ -124,19 +179,8 @@ export const subjects: Array<selectInterface> = [
 		value: "matematica-(61)",
 	},
 	*/
-	{
-		label: "Pensamiento Computacional (90)",
-		value: "pensamiento-computacional-(90)",
-		short: "Pensamiento Computacional",
-		long: "Pensamiento Computacional (90)",
-		departments: [
-			{
-				label: "(Cátedra: CAMEJO)",
-				value: "catedra-camejo",
-			},
-		],
-	},
-	/*
+
+/*
 	{
 		short: "DDHH y Derecho Constitucional",
 		long: "Principios de Derechos Humanos y Derecho Constitucional",
@@ -149,19 +193,9 @@ export const subjects: Array<selectInterface> = [
 			},
 		],
 	},
-	*/ {
-		short: "Derecho Privado",
-		long: "Principios Generales de Derecho Privado",
-		label: "Principios Generales de Derecho Privado (89)",
-		value: "principios-generales-de-derecho-privado-(89)",
-		departments: [
-			{
-				label: "(Cátedra: GENOVESI, Mariano)",
-				value: "catedra-genovesi-mariano",
-			},
-		],
-	},
-	/*
+	*/
+
+/*
 	{
 		label: "Psicología (15)",
 		value: "psicologia-(15)",
@@ -174,24 +208,9 @@ export const subjects: Array<selectInterface> = [
 		label: "Semiología (43)",
 		value: "semiologia-(43)",
 	},
-	{
-		label: "Sociología (14)",
-		value: "sociologia-(14)",
-	},
+	
 	{
 		label: "Taller de Dibujo (48)",
 		value: "taller-de-dibujo-(48)",
 	},
-	*/ {
-		short: "Trabajo y Sociedad",
-		long: "",
-		label: "Trabajo y Sociedad (70)",
-		value: "trabajo-y-sociedad-(70)",
-		departments: [
-			{
-				value: "catedra-de-gisi-ricardo",
-				label: "(Cátedra: DE GISI, Ricardo)",
-			},
-		],
-	},
-];
+	*/
