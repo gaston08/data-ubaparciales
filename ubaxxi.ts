@@ -61,8 +61,8 @@ export const subjects: Array<selectInterface> = [
 		long: "Pensamiento Computacional",
 		departments: [
 			{
-				label: "(Cátedra: CAMEJO)",
-				value: "catedra-camejo",
+				label: "(Cátedra: BALBIANO, José Luis)",
+				value: "catedra-balbiano-jose-luis",
 			},
 		],
 	},
