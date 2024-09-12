@@ -127,6 +127,18 @@ export const subjects: Array<selectInterface> = [
 			},
 		],
 	},
+	{
+		short: "DDHH y Derecho Constitucional",
+		long: "Principios de Derechos Humanos y Derecho Constitucional",
+		label: "Principios de Derechos Humanos y Derecho Constitucional (50)",
+		value: "principios-de-derechos-humanos-y-derecho-constitucional-(50)",
+		departments: [
+			{
+				label: "(Cátedra: RINALDI, Luciano)",
+				value: "catedra-rinaldi-luciano",
+			},
+		],
+	},
 ];
 
 /*{
@@ -194,21 +206,6 @@ export const subjects: Array<selectInterface> = [
 	{
 		label: "Matemática (61)",
 		value: "matematica-(61)",
-	},
-	*/
-
-/*
-	{
-		short: "DDHH y Derecho Constitucional",
-		long: "Principios de Derechos Humanos y Derecho Constitucional",
-		label: "Principios de Derechos Humanos y Derecho Constitucional (50)",
-		value: "principios-de-derechos-humanos-y-derecho-constitucional-(50)",
-		departments: [
-			{
-				label: "(Cátedra: RINALDI, Luciano)",
-				value: "catedra-rinaldi-luciano",
-			},
-		],
 	},
 	*/
 
