@@ -102,6 +102,31 @@ export const subjects: Array<selectInterface> = [
 			},
 		],
 	},
+	//biologias
+	{
+		label: "Biología e Introducción a la Biología Celular (54)",
+		value: "biologia-e-introduccion-a-la-biologia-celular-(54)",
+		short: "Biología (54)",
+		long: "Biología e Introducción a la Biología Celular (54)",
+		departments: [
+			{
+				label: "(Cátedra B: RODRÍGUEZ FERMEPIN, Martín)",
+				value: "catedra-rodriguez-fermepin-martin",
+			},
+		],
+	},
+	{
+		label: "Biología e Introducción a la Biología Celular B (91)",
+		value: "biologia-e-introduccion-a-la-biologia-celular-b-(91)",
+		short: "Biología (91)",
+		long: "Biología e Introducción a la Biología Celular B (91)",
+		departments: [
+			{
+				label: "(Cátedra B: RODRÍGUEZ FERMEPIN, Martín)",
+				value: "catedra-rodriguez-fermepin-martin",
+			},
+		],
+	},
 ];
 
 /*{
@@ -125,14 +150,6 @@ export const subjects: Array<selectInterface> = [
 	{
 		label: "Biología (08)",
 		value: "biologia-(08)",
-	},
-	{
-		label: "Biología e Introducción a la Biología Celular (54)",
-		value: "biologia-e-introduccion-a-la-biologia-celular-(54)",
-	},
-	{
-		label: "Biología e Introducción a la Biología Celular B (91)",
-		value: "biologia-e-introduccion-a-la-biologia-celular-b-(91)",
 	},
 	{
 		label: "Ciencia Política (22)",
