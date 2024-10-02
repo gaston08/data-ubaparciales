@@ -1,4 +1,5 @@
 export interface selectInterface {
+	code: string;
 	label: string;
 	value: string;
 	short: string;
@@ -13,6 +14,7 @@ export interface departmentInterface {
 
 export const subjects: Array<selectInterface> = [
 	{
+		code: "16",
 		label: "Antropología (16)",
 		value: "antropologia-(16)",
 		short: "Antropología",
@@ -25,6 +27,7 @@ export const subjects: Array<selectInterface> = [
 		],
 	},
 	{
+		code: "24",
 		short: "ICSE",
 		long: "Introducción al Conocimiento de la Sociedad y el Estado",
 		label:
@@ -39,6 +42,7 @@ export const subjects: Array<selectInterface> = [
 		],
 	},
 	{
+		code: "40",
 		short: "IPC",
 		long: "Introducción al Pensamiento Científico",
 		label: "Introducción al Pensamiento Científico (40)",
@@ -55,6 +59,7 @@ export const subjects: Array<selectInterface> = [
 		],
 	},
 	{
+		code: "90",
 		label: "Pensamiento Computacional (90)",
 		value: "pensamiento-computacional-(90)",
 		short: "Pensamiento Computacional",
@@ -67,6 +72,7 @@ export const subjects: Array<selectInterface> = [
 		],
 	},
 	{
+		code: "89",
 		short: "Derecho Privado",
 		long: "Principios Generales de Derecho Privado",
 		label: "Principios Generales de Derecho Privado (89)",
@@ -79,6 +85,7 @@ export const subjects: Array<selectInterface> = [
 		],
 	},
 	{
+		code: "70",
 		short: "Trabajo y Sociedad",
 		long: "Trabajo y Sociedad",
 		label: "Trabajo y Sociedad (70)",
@@ -91,6 +98,7 @@ export const subjects: Array<selectInterface> = [
 		],
 	},
 	{
+		code: "14",
 		label: "Sociología (14)",
 		value: "sociologia-(14)",
 		short: "Sociología",
@@ -104,6 +112,7 @@ export const subjects: Array<selectInterface> = [
 	},
 	//biologias
 	{
+		code: "54",
 		label: "Biología e Introducción a la Biología Celular (54)",
 		value: "biologia-e-introduccion-a-la-biologia-celular-(54)",
 		short: "Biología (54)",
@@ -116,6 +125,7 @@ export const subjects: Array<selectInterface> = [
 		],
 	},
 	{
+		code: "91",
 		label: "Biología e Introducción a la Biología Celular B (91)",
 		value: "biologia-e-introduccion-a-la-biologia-celular-b-(91)",
 		short: "Biología (91)",
@@ -128,6 +138,7 @@ export const subjects: Array<selectInterface> = [
 		],
 	},
 	{
+		code: "50",
 		short: "DDHH y Derecho Constitucional",
 		long: "Principios de Derechos Humanos y Derecho Constitucional",
 		label: "Principios de Derechos Humanos y Derecho Constitucional (50)",
