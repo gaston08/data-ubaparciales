@@ -3,11 +3,6 @@ interface selectType {
 	value: string;
 }
 
-export const faculties: Array<selectType> = [
-	{ label: "CBC UBA XXI", value: "cbc-uba-xxi" },
-	{ label: "CBC Presencial", value: "cbc-presencial" },
-];
-
 export enum SUBJECTS_ENUM {
 	PENSAMIENTO_CIENTIFICO = "introduccion-al-pensamiento-cientifico-(40)",
 	SOCIEDAD_Y_ESTADO = "introduccion-al-conocimiento-de-la-sociedad-y-el-estado-(icse)-(24)",
