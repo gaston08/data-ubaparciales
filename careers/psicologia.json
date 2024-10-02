@@ -4,45 +4,45 @@
 		{
 			"career": "42 Lic. en Psicología",
 			"subjects": [
-				"08 Biología",
-				"15 Psicología",
-				"24 Sociedad y Estado",
-				"40 Pensamiento Científico",
-				"43 Semiología",
-				"51 Matemática"
+				{ "code": "08", "materia": "Biología" },
+				{ "code": "15", "materia": "Psicología" },
+				{ "code": "24", "materia": "Sociedad y Estado" },
+				{ "code": "40", "materia": "Pensamiento Científico" },
+				{ "code": "43", "materia": "Semiología" },
+				{ "code": "51", "materia": "Matemática" }
 			]
 		},
 		{
 			"career": "88 Terapia Ocupacional",
 			"subjects": [
-				"08 Biología",
-				"14 Sociología",
-				"15 Psicología",
-				"24 Sociedad y Estado",
-				"40 Pensamiento Científico",
-				"51 Matemática"
+				{ "code": "08", "materia": "Biología" },
+				{ "code": "14", "materia": "Sociología" },
+				{ "code": "15", "materia": "Psicología" },
+				{ "code": "24", "materia": "Sociedad y Estado" },
+				{ "code": "40", "materia": "Pensamiento Científico" },
+				{ "code": "51", "materia": "Matemática" }
 			]
 		},
 		{
 			"career": "98 Lic. en Musicoterapia",
 			"subjects": [
-				"08 Biología",
-				"15 Psicología",
-				"24 Sociedad y Estado",
-				"40 Pensamiento Científico",
-				"43 Semiología",
-				"51 Matemática"
+				{ "code": "08", "materia": "Biología" },
+				{ "code": "15", "materia": "Psicología" },
+				{ "code": "24", "materia": "Sociedad y Estado" },
+				{ "code": "40", "materia": "Pensamiento Científico" },
+				{ "code": "43", "materia": "Semiología" },
+				{ "code": "51", "materia": "Matemática" }
 			]
 		},
 		{
 			"career": "142 Prof. de Enseñanza Media y Superior en Psicología",
 			"subjects": [
-				"08 Biología",
-				"15 Psicología",
-				"24 Sociedad y Estado",
-				"40 Pensamiento Científico",
-				"43 Semiología",
-				"51 Matemática"
+				{ "code": "08", "materia": "Biología" },
+				{ "code": "15", "materia": "Psicología" },
+				{ "code": "24", "materia": "Sociedad y Estado" },
+				{ "code": "40", "materia": "Pensamiento Científico" },
+				{ "code": "43", "materia": "Semiología" },
+				{ "code": "51", "materia": "Matemática" }
 			]
 		}
 	]

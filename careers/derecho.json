@@ -4,42 +4,42 @@
 		{
 			"career": "1 Abogacía",
 			"subjects": [
-				"14 Sociología",
-				"22 Ciencia Política",
-				"24 Sociedad y Estado",
-				"40 Pensamiento Científico",
-				"50 DDHH y Derecho Constitucional",
-				"89 Derecho Privado"
+				{ "code": "14", "materia": "Sociología" },
+				{ "code": "22", "materia": "Ciencia Política" },
+				{ "code": "24", "materia": "Sociedad y Estado" },
+				{ "code": "40", "materia": "Pensamiento Científico" },
+				{ "code": "50", "materia": "DDHH y Derecho Constitucional" },
+				{ "code": "89", "materia": "Derecho Privado" }
 			]
 		},
 		{
 			"career": "10 Calígrafo Público",
 			"subjects": [
-				"40 Pensamiento Científico",
-				"70 Trabajo y Sociedad",
-				"89 Derecho Privado"
+				{ "code": "40", "materia": "Pensamiento Científico" },
+				{ "code": "70", "materia": "Trabajo y Sociedad" },
+				{ "code": "89", "materia": "Derecho Privado" }
 			]
 		},
 		{
 			"career": "44 Traductorado Público",
 			"subjects": [
-				"14 Sociología",
-				"24 Sociedad y Estado",
-				"40 Pensamiento Científico",
-				"43 Semiología",
-				"50 DDHH y Derecho Constitucional",
-				"89 Derecho Privado"
+				{ "code": "14", "materia": "Sociología" },
+				{ "code": "24", "materia": "Sociedad y Estado" },
+				{ "code": "40", "materia": "Pensamiento Científico" },
+				{ "code": "43", "materia": "Semiología" },
+				{ "code": "50", "materia": "DDHH y Derecho Constitucional" },
+				{ "code": "89", "materia": "Derecho Privado" }
 			]
 		},
 		{
 			"career": "143 Prof. en Enseñanza Media y Superior en Cs. Jurídicas",
 			"subjects": [
-				"14 Sociología",
-				"22 Ciencia Política",
-				"24 Sociedad y Estado",
-				"40 Pensamiento Científico",
-				"50 DDHH y Derecho Constitucional",
-				"89 Derecho Privado"
+				{ "code": "14", "materia": "Sociología" },
+				{ "code": "22", "materia": "Ciencia Política" },
+				{ "code": "24", "materia": "Sociedad y Estado" },
+				{ "code": "40", "materia": "Pensamiento Científico" },
+				{ "code": "50", "materia": "DDHH y Derecho Constitucional" },
+				{ "code": "89", "materia": "Derecho Privado" }
 			]
 		}
 	]

@@ -4,12 +4,12 @@
 		{
 			"career": "41 Odontología",
 			"subjects": [
-				"05 Química",
-				"24 Sociedad y Estado",
-				"40 Pensamiento Científico",
-				"51 Matemática",
-				"53 Biofísica",
-				"54 Biología Celular"
+				{ "code": "05", "materia": "Química" },
+				{ "code": "24", "materia": "Sociedad y Estado" },
+				{ "code": "40", "materia": "Pensamiento Científico" },
+				{ "code": "51", "materia": "Matemática" },
+				{ "code": "53", "materia": "Biofísica" },
+				{ "code": "54", "materia": "Biología Celular" }
 			]
 		}
 	]

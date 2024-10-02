@@ -4,55 +4,59 @@
 		{
 			"career": "9 Bioquímica",
 			"subjects": [
-				"05 Química",
-				"24 Sociedad y Estado",
-				"40 Pensamiento Científico",
-				"51 Matemática",
-				"53 Biofísica",
-				"54 Biología Celular"
+				{ "code": "05", "materia": "Química" },
+				{ "code": "24", "materia": "Sociedad y Estado" },
+				{ "code": "40", "materia": "Pensamiento Científico" },
+				{ "code": "51", "materia": "Matemática" },
+				{ "code": "53", "materia": "Biofísica" },
+				{ "code": "54", "materia": "Biología Celular" }
 			]
 		},
 		{
 			"career": "20 Farmacia",
 			"subjects": [
-				"05 Química",
-				"24 Sociedad y Estado",
-				"40 Pensamiento Científico",
-				"51 Matemática",
-				"53 Biofísica",
-				"54 Biología Celular"
+				{ "code": "05", "materia": "Química" },
+				{ "code": "24", "materia": "Sociedad y Estado" },
+				{ "code": "40", "materia": "Pensamiento Científico" },
+				{ "code": "51", "materia": "Matemática" },
+				{ "code": "53", "materia": "Biofísica" },
+				{ "code": "54", "materia": "Biología Celular" }
 			]
 		},
 		{
 			"career": "56 Tecnicatura Universitaria en Óptica y Contactología",
 			"subjects": [
-				"51 Matemática",
-				"54 Biología Celular",
-				"70 Trabajo y Sociedad"
+				{ "code": "51", "materia": "Matemática" },
+				{ "code": "54", "materia": "Biología Celular" },
+				{ "code": "70", "materia": "Trabajo y Sociedad" }
 			]
 		},
 		{
 			"career": "61 Tecnicatura Universitaria en Medicina Nuclear",
-			"subjects": ["05 Química", "54 Biología Celular", "70 Trabajo y Sociedad"]
+			"subjects": [
+				{ "code": "05", "materia": "Química" },
+				{ "code": "54", "materia": "Biología Celular" },
+				{ "code": "70", "materia": "Trabajo y Sociedad" }
+			]
 		},
 		{
 			"career": "149 Tec. Univ. en Gestión Integral de Bioterios",
 			"subjects": [
-				"05 Química",
-				"08 Biología",
-				"40 Pensamiento Científico",
-				"70 Trabajo y Sociedad"
+				{ "code": "05", "materia": "Química" },
+				{ "code": "08", "materia": "Biología" },
+				{ "code": "40", "materia": "Pensamiento Científico" },
+				{ "code": "70", "materia": "Trabajo y Sociedad" }
 			]
 		},
 		{
 			"career": "140 Lic. en Ciencia y Tecnología de Alimentos",
 			"subjects": [
-				"03 Física",
-				"05 Química",
-				"24 Sociedad y Estado",
-				"40 Pensamiento Científico",
-				"54 Biología Celular",
-				"66 Análisis Matemático A"
+				{ "code": "03", "materia": "Física" },
+				{ "code": "05", "materia": "Química" },
+				{ "code": "24", "materia": "Sociedad y Estado" },
+				{ "code": "40", "materia": "Pensamiento Científico" },
+				{ "code": "54", "materia": "Biología Celular" },
+				{ "code": "66", "materia": "Análisis Matemático A" }
 			]
 		}
 	]

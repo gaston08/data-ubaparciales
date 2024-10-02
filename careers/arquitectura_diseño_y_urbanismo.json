@@ -4,85 +4,85 @@
 		{
 			"career": "7 Arquitectura",
 			"subjects": [
-				"24 Sociedad y Estado",
-				"40 Pensamiento Científico",
-				"42 Filosofía",
-				"46 Proyectual I",
-				"47 Proyectual II",
-				"48 Taller de Dibujo",
-				"51 Matemática"
+				{ "code": "24", "materia": "Sociedad y Estado" },
+				{ "code": "40", "materia": "Pensamiento Científico" },
+				{ "code": "42", "materia": "Filosofía" },
+				{ "code": "46", "materia": "Proyectual I" },
+				{ "code": "47", "materia": "Proyectual II" },
+				{ "code": "48", "materia": "Taller de Dibujo" },
+				{ "code": "51", "materia": "Matemática" }
 			]
 		},
 		{
 			"career": "50 Diseño Gráfico",
 			"subjects": [
-				"24 Sociedad y Estado",
-				"40 Pensamiento Científico",
-				"43 Semiología",
-				"46 Proyectual I",
-				"47 Proyectual II",
-				"48 Taller de Dibujo",
-				"51 Matemática"
+				{ "code": "24", "materia": "Sociedad y Estado" },
+				{ "code": "40", "materia": "Pensamiento Científico" },
+				{ "code": "43", "materia": "Semiología" },
+				{ "code": "46", "materia": "Proyectual I" },
+				{ "code": "47", "materia": "Proyectual II" },
+				{ "code": "48", "materia": "Taller de Dibujo" },
+				{ "code": "51", "materia": "Matemática" }
 			]
 		},
 		{
 			"career": "51 Diseño Industrial",
 			"subjects": [
-				"24 Sociedad y Estado",
-				"40 Pensamiento Científico",
-				"43 Semiología",
-				"46 Proyectual I",
-				"47 Proyectual II",
-				"48 Taller de Dibujo",
-				"51 Matemática"
+				{ "code": "24", "materia": "Sociedad y Estado" },
+				{ "code": "40", "materia": "Pensamiento Científico" },
+				{ "code": "43", "materia": "Semiología" },
+				{ "code": "46", "materia": "Proyectual I" },
+				{ "code": "47", "materia": "Proyectual II" },
+				{ "code": "48", "materia": "Taller de Dibujo" },
+				{ "code": "51", "materia": "Matemática" }
 			]
 		},
 		{
 			"career": "76 Diseño de Imagen y Sonido",
 			"subjects": [
-				"24 Sociedad y Estado",
-				"40 Pensamiento Científico",
-				"43 Semiología",
-				"46 Proyectual I",
-				"47 Proyectual II",
-				"48 Taller de Dibujo",
-				"51 Matemática"
+				{ "code": "24", "materia": "Sociedad y Estado" },
+				{ "code": "40", "materia": "Pensamiento Científico" },
+				{ "code": "43", "materia": "Semiología" },
+				{ "code": "46", "materia": "Proyectual I" },
+				{ "code": "47", "materia": "Proyectual II" },
+				{ "code": "48", "materia": "Taller de Dibujo" },
+				{ "code": "51", "materia": "Matemática" }
 			]
 		},
 		{
 			"career": "83 Lic. en Planificación y Diseño del Paisaje",
 			"subjects": [
-				"08 Biología",
-				"24 Sociedad y Estado",
-				"40 Pensamiento Científico",
-				"46 Proyectual I",
-				"47 Proyectual II",
-				"48 Taller de Dibujo",
-				"51 Matemática"
+				{ "code": "08", "materia": "Biología" },
+				{ "code": "24", "materia": "Sociedad y Estado" },
+				{ "code": "40", "materia": "Pensamiento Científico" },
+				{ "code": "46", "materia": "Proyectual I" },
+				{ "code": "47", "materia": "Proyectual II" },
+				{ "code": "48", "materia": "Taller de Dibujo" },
+				{ "code": "51", "materia": "Matemática" }
 			]
 		},
 		{
 			"career": "138 Diseño de Indumentaria",
 			"subjects": [
-				"24 Sociedad y Estado",
-				"40 Pensamiento Científico",
-				"43 Semiología",
-				"46 Proyectual I",
-				"47 Proyectual II",
-				"48 Taller de Dibujo",
-				"51 Matemática"
+				{ "code": "24", "materia": "Sociedad y Estado" },
+				{ "code": "40", "materia": "Pensamiento Científico" },
+				{ "code": "43", "materia": "Semiología" },
+				{ "code": "46", "materia": "Proyectual I" },
+				{ "code": "47", "materia": "Proyectual II" },
+				{ "code": "48", "materia": "Taller de Dibujo" },
+				{ "code": "51", "materia": "Matemática" }
 			]
 		},
 		{
 			"career": "139 Diseño Textil",
 			"subjects": [
-				"24 Sociedad y Estado",
-				"40 Pensamiento Científico",
-				"43 Semiología",
-				"46 Proyectual I",
-				"47 Proyectual II",
-				"48 Taller de Dibujo",
-				"51 Matemática"
+				{ "code": "24", "materia": "Sociedad y Estado" },
+				{ "code": "40", "materia": "Pensamiento Científico" },
+				{ "code": "43", "materia": "Semiología" },
+				{ "code": "46", "materia": "Proyectual I" },
+				{ "code": "47", "materia": "Proyectual II" },
+				{ "code": "48", "materia": "Taller de Dibujo" },
+				{ "code": "51", "materia": "Matemática" }
 			]
 		}
 	]
