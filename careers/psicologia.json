@@ -1,0 +1,49 @@
+{
+	"faculty": "Facultad de Psicología",
+	"careers": [
+		{
+			"career": "42 Lic. en Psicología",
+			"subjects": [
+				"08 Biología",
+				"15 Psicología",
+				"24 Sociedad y Estado",
+				"40 Pensamiento Científico",
+				"43 Semiología",
+				"51 Matemática"
+			]
+		},
+		{
+			"career": "88 Terapia Ocupacional",
+			"subjects": [
+				"08 Biología",
+				"14 Sociología",
+				"15 Psicología",
+				"24 Sociedad y Estado",
+				"40 Pensamiento Científico",
+				"51 Matemática"
+			]
+		},
+		{
+			"career": "98 Lic. en Musicoterapia",
+			"subjects": [
+				"08 Biología",
+				"15 Psicología",
+				"24 Sociedad y Estado",
+				"40 Pensamiento Científico",
+				"43 Semiología",
+				"51 Matemática"
+			]
+		},
+		{
+			"career": "142 Prof. de Enseñanza Media y Superior en Psicología",
+			"subjects": [
+				"08 Biología",
+				"15 Psicología",
+				"24 Sociedad y Estado",
+				"40 Pensamiento Científico",
+				"43 Semiología",
+				"51 Matemática"
+			]
+		}
+	]
+}

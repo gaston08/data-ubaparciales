@@ -1,0 +1,71 @@
+{
+	"faculty": "Facultad de  Ciencias Económicas",
+	"careers": [
+		{
+			"career": "2 Actuario (Administración)",
+			"subjects": [
+				"14 Sociología",
+				"21 Economía",
+				"71 Álgebra",
+				"72 Análisis Matemático",
+				"73 Metodología de las Cs. Sociales",
+				"74 Historia Econ. y Social Gral."
+			]
+		},
+		{
+			"career": "19 Contador Público",
+			"subjects": [
+				"14 Sociología",
+				"21 Economía",
+				"71 Álgebra",
+				"72 Análisis Matemático",
+				"73 Metodología de las Cs. Sociales",
+				"74 Historia Econ. y Social Gral."
+			]
+		},
+		{
+			"career": "35 Lic. en Administración",
+			"subjects": [
+				"14 Sociología",
+				"21 Economía",
+				"71 Álgebra",
+				"72 Análisis Matemático",
+				"73 Metodología de las Cs. Sociales",
+				"74 Historia Econ. y Social Gral."
+			]
+		},
+		{
+			"career": "36 Lic. en Economía",
+			"subjects": [
+				"14 Sociología",
+				"21 Economía",
+				"71 Álgebra",
+				"72 Análisis Matemático",
+				"73 Metodología de las Cs. Sociales",
+				"74 Historia Econ. y Social Gral."
+			]
+		},
+		{
+			"career": "58 Lic. en Sistemas de Información de las Organizaciones",
+			"subjects": [
+				"14 Sociología",
+				"21 Economía",
+				"71 Álgebra",
+				"72 Análisis Matemático",
+				"73 Metodología de las Cs. Sociales",
+				"74 Historia Econ. y Social Gral."
+			]
+		},
+		{
+			"career": "89 Actuario (Economía)",
+			"subjects": [
+				"14 Sociología",
+				"21 Economía",
+				"71 Álgebra",
+				"72 Análisis Matemático",
+				"73 Metodología de las Cs. Sociales",
+				"74 Historia Econ. y Social Gral."
+			]
+		}
+	]
+}

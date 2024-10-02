@@ -1,0 +1,16 @@
+{
+	"faculty": "Facultad de Odontología",
+	"careers": [
+		{
+			"career": "41 Odontología",
+			"subjects": [
+				"05 Química",
+				"24 Sociedad y Estado",
+				"40 Pensamiento Científico",
+				"51 Matemática",
+				"53 Biofísica",
+				"54 Biología Celular"
+			]
+		}
+	]
+}

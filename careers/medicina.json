@@ -1,0 +1,133 @@
+{
+	"faculty": "Facultad de Medicina",
+	"careers": [
+		{
+			"career": "22 Lic. en Fonoaudiología",
+			"subjects": [
+				"05 Química",
+				"24 Sociedad y Estado",
+				"40 Pensamiento Científico",
+				"51 Matemática",
+				"53 Biofísica",
+				"91 Biología Celular B"
+			]
+		},
+		{
+			"career": "33 Lic. en Kinesiología y Fisiatría",
+			"subjects": [
+				"05 Química",
+				"24 Sociedad y Estado",
+				"40 Pensamiento Científico",
+				"51 Matemática",
+				"53 Biofísica",
+				"91 Biología Celular B"
+			]
+		},
+		{
+			"career": "39 Medicina",
+			"subjects": [
+				"05 Química",
+				"24 Sociedad y Estado",
+				"40 Pensamiento Científico",
+				"51 Matemática",
+				"53 Biofísica",
+				"91 Biología Celular B"
+			]
+		},
+		{
+			"career": "40 Lic. en Nutrición",
+			"subjects": [
+				"05 Química",
+				"24 Sociedad y Estado",
+				"40 Pensamiento Científico",
+				"51 Matemática",
+				"53 Biofísica",
+				"91 Biología Celular B"
+			]
+		},
+		{
+			"career": "46 Lic. en Obstetricia",
+			"subjects": [
+				"05 Química",
+				"24 Sociedad y Estado",
+				"40 Pensamiento Científico",
+				"51 Matemática",
+				"53 Biofísica",
+				"91 Biología Celular B"
+			]
+		},
+		{
+			"career": "47 Enfermero Universitario",
+			"subjects": ["24 Sociedad y Estado", "40 Pensamiento Científico"]
+		},
+		{
+			"career": "60 Tec. Univ. en Podología",
+			"subjects": [
+				"40 Pensamiento Científico",
+				"42 Filosofía",
+				"70 Trabajo y Sociedad"
+			]
+		},
+		{
+			"career": "65 Téc. Radiólogo Universitario",
+			"subjects": [
+				"05 Química",
+				"24 Sociedad y Estado",
+				"40 Pensamiento Científico"
+			]
+		},
+		{
+			"career": "66 Lic. en Producción de Bioimágenes",
+			"subjects": [
+				"05 Química",
+				"24 Sociedad y Estado",
+				"40 Pensamiento Científico",
+				"51 Matemática",
+				"53 Biofísica",
+				"91 Biología Celular B"
+			]
+		},
+		{
+			"career": "70 Tec. Univ. en Hemoterapia e Inmunohematología",
+			"subjects": [
+				"05 Química",
+				"70 Trabajo y Sociedad",
+				"91 Biología Celular B"
+			]
+		},
+		{
+			"career": "81 Lic. en Enfermería",
+			"subjects": [
+				"24 Sociedad y Estado",
+				"40 Pensamiento Científico",
+				"05 Química",
+				"14 Sociología",
+				"15 Psicología",
+				"16 Antropología",
+				"21 Economía",
+				"22 Ciencia Política",
+				"42 Filosofía",
+				"43 Semiología",
+				"51 Matemática",
+				"53 Biofísica",
+				"91 Biología Celular B"
+			]
+		},
+		{
+			"career": "131 Tec. Univ. en Cosmetología Facial y Corporal",
+			"subjects": ["05 Química", "53 Biofísica", "70 Trabajo y Sociedad"]
+		},
+		{
+			"career": "132 Tec. Univ. en Instrumentación Quirúrgica",
+			"subjects": ["05 Química", "53 Biofísica", "70 Trabajo y Sociedad"]
+		},
+		{
+			"career": "133 Tec. Univ. en Prácticas Cardiológicas",
+			"subjects": [
+				"53 Biofísica",
+				"70 Trabajo y Sociedad",
+				"91 Biología Celular B"
+			]
+		}
+	]
+}

@@ -1,0 +1,89 @@
+{
+	"faculty": "Facultad de  Arquitectura, Diseño y Urbanismo",
+	"careers": [
+		{
+			"career": "7 Arquitectura",
+			"subjects": [
+				"24 Sociedad y Estado",
+				"40 Pensamiento Científico",
+				"42 Filosofía",
+				"46 Proyectual I",
+				"47 Proyectual II",
+				"48 Taller de Dibujo",
+				"51 Matemática"
+			]
+		},
+		{
+			"career": "50 Diseño Gráfico",
+			"subjects": [
+				"24 Sociedad y Estado",
+				"40 Pensamiento Científico",
+				"43 Semiología",
+				"46 Proyectual I",
+				"47 Proyectual II",
+				"48 Taller de Dibujo",
+				"51 Matemática"
+			]
+		},
+		{
+			"career": "51 Diseño Industrial",
+			"subjects": [
+				"24 Sociedad y Estado",
+				"40 Pensamiento Científico",
+				"43 Semiología",
+				"46 Proyectual I",
+				"47 Proyectual II",
+				"48 Taller de Dibujo",
+				"51 Matemática"
+			]
+		},
+		{
+			"career": "76 Diseño de Imagen y Sonido",
+			"subjects": [
+				"24 Sociedad y Estado",
+				"40 Pensamiento Científico",
+				"43 Semiología",
+				"46 Proyectual I",
+				"47 Proyectual II",
+				"48 Taller de Dibujo",
+				"51 Matemática"
+			]
+		},
+		{
+			"career": "83 Lic. en Planificación y Diseño del Paisaje",
+			"subjects": [
+				"08 Biología",
+				"24 Sociedad y Estado",
+				"40 Pensamiento Científico",
+				"46 Proyectual I",
+				"47 Proyectual II",
+				"48 Taller de Dibujo",
+				"51 Matemática"
+			]
+		},
+		{
+			"career": "138 Diseño de Indumentaria",
+			"subjects": [
+				"24 Sociedad y Estado",
+				"40 Pensamiento Científico",
+				"43 Semiología",
+				"46 Proyectual I",
+				"47 Proyectual II",
+				"48 Taller de Dibujo",
+				"51 Matemática"
+			]
+		},
+		{
+			"career": "139 Diseño Textil",
+			"subjects": [
+				"24 Sociedad y Estado",
+				"40 Pensamiento Científico",
+				"43 Semiología",
+				"46 Proyectual I",
+				"47 Proyectual II",
+				"48 Taller de Dibujo",
+				"51 Matemática"
+			]
+		}
+	]
+}

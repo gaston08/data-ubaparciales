@@ -1,0 +1,69 @@
+{
+	"faculty": "Facultad de Agronomía",
+	"careers": [
+		{
+			"career": "4 Agronomía",
+			"subjects": [
+				"05 Química",
+				"08 Biología",
+				"24 Sociedad y Estado",
+				"40 Pensamiento Científico",
+				"53 Biofísica",
+				"61 Matemática (9H)"
+			]
+		},
+		{
+			"career": "91 Lic. en Economía y Administración Agrarias",
+			"subjects": [
+				"14 Sociología",
+				"21 Economía",
+				"71 Álgebra",
+				"72 Análisis Matemático",
+				"73 Metodología de las Cs. Sociales",
+				"74 Historia Econ. y Social Gral."
+			]
+		},
+		{
+			"career": "97 Lic. en Cs. Ambientales ",
+			"subjects": [
+				"05 Química",
+				"08 Biología",
+				"24 Sociedad y Estado",
+				"40 Pensamiento Científico",
+				"53 Biofísica",
+				"61 Matemática (9H)"
+			]
+		},
+		{
+			"career": "147 Prof. de Enseñanza Sec. y Superior en Cs. Ambientales",
+			"subjects": [
+				"05 Química",
+				"08 Biología",
+				"24 Sociedad y Estado",
+				"40 Pensamiento Científico",
+				"53 Biofísica",
+				"61 Matemática (9H)"
+			]
+		},
+		{
+			"career": "163 TEC. UNIV. EN TURISMO RURAL",
+			"subjects": [
+				"21 Economía",
+				"40 Pensamiento Científico",
+				"70 Trabajo y Sociedad"
+			]
+		},
+		{
+			"career": "179 TEC. UNIV. EN PRODUCCIÓN FLORIHORTICOLA",
+			"subjects": ["05 Química", "08 Biología", "70 Trabajo y Sociedad"]
+		},
+		{
+			"career": "180 TEC. UNIV. JARDINERÍA",
+			"subjects": ["05 Química", "08 Biología", "70 Trabajo y Sociedad"]
+		},
+		{
+			"career": "196 TEC. UNIV. EN PRODUCCIÓN VEGETAL ORGÁNICA",
+			"subjects": ["05 Química", "08 Biología", "70 Trabajo y Sociedad "]
+		}
+	]
+}

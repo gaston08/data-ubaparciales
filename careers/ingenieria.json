@@ -1,0 +1,137 @@
+{
+	"faculty": "Facultad de Ingeniería",
+	"careers": [
+		{
+			"career": "5 Lic. en Análisis de Sistemas",
+			"subjects": [
+				"03 Física",
+				"24 Sociedad y Estado",
+				"40 Pensamiento Científico",
+				"62 Álgebra A",
+				"66 Análisis Matemático A",
+				"90 Pensamiento Computacional"
+			]
+		},
+		{
+			"career": "26 Ingeniería Civil",
+			"subjects": [
+				"03 Física",
+				"24 Sociedad y Estado",
+				"40 Pensamiento Científico",
+				"62 Álgebra A",
+				"66 Análisis Matemático A",
+				"90 Pensamiento Computacional"
+			]
+		},
+		{
+			"career": "27 Ingeniería Electricista",
+			"subjects": [
+				"03 Física",
+				"24 Sociedad y Estado",
+				"40 Pensamiento Científico",
+				"62 Álgebra A",
+				"66 Análisis Matemático A",
+				"90 Pensamiento Computacional"
+			]
+		},
+		{
+			"career": "28 Ingeniería Electrónica",
+			"subjects": [
+				"03 Física",
+				"24 Sociedad y Estado",
+				"40 Pensamiento Científico",
+				"62 Álgebra A",
+				"66 Análisis Matemático A",
+				"90 Pensamiento Computacional"
+			]
+		},
+		{
+			"career": "29 Ingeniería Mecánica",
+			"subjects": [
+				"03 Física",
+				"24 Sociedad y Estado",
+				"40 Pensamiento Científico",
+				"62 Álgebra A",
+				"66 Análisis Matemático A",
+				"90 Pensamiento Computacional"
+			]
+		},
+		{
+			"career": "30 Ingeniería Industrial",
+			"subjects": [
+				"03 Física",
+				"24 Sociedad y Estado",
+				"40 Pensamiento Científico",
+				"62 Álgebra A",
+				"66 Análisis Matemático A",
+				"90 Pensamiento Computacional"
+			]
+		},
+		{
+			"career": "31 Ingeniería Naval y Mecánica",
+			"subjects": [
+				"03 Física",
+				"24 Sociedad y Estado",
+				"40 Pensamiento Científico",
+				"62 Álgebra A",
+				"66 Análisis Matemático A",
+				"90 Pensamiento Computacional"
+			]
+		},
+		{
+			"career": "32 Ingeniería Química",
+			"subjects": [
+				"03 Física",
+				"24 Sociedad y Estado",
+				"40 Pensamiento Científico",
+				"62 Álgebra A",
+				"66 Análisis Matemático A",
+				"90 Pensamiento Computacional"
+			]
+		},
+		{
+			"career": "67 Ingeniería en Agrimensura",
+			"subjects": [
+				"03 Física",
+				"24 Sociedad y Estado",
+				"40 Pensamiento Científico",
+				"62 Álgebra A",
+				"66 Análisis Matemático A",
+				"90 Pensamiento Computacional"
+			]
+		},
+		{
+			"career": "90 Ingeniería en Informática",
+			"subjects": [
+				"03 Física",
+				"24 Sociedad y Estado",
+				"40 Pensamiento Científico",
+				"62 Álgebra A",
+				"66 Análisis Matemático A",
+				"90 Pensamiento Computacional"
+			]
+		},
+		{
+			"career": "135 Ingeniería en Petróleo",
+			"subjects": [
+				"03 Física",
+				"24 Sociedad y Estado",
+				"40 Pensamiento Científico",
+				"62 Álgebra A",
+				"66 Análisis Matemático A",
+				"90 Pensamiento Computacional"
+			]
+		},
+		{
+			"career": "146 Ingeniería de Alimentos",
+			"subjects": [
+				"03 Física",
+				"24 Sociedad y Estado",
+				"40 Pensamiento Científico",
+				"62 Álgebra A",
+				"66 Análisis Matemático A",
+				"90 Pensamiento Computacional"
+			]
+		}
+	]
+}

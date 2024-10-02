@@ -1,0 +1,59 @@
+{
+	"faculty": "Facultad de  Farmacia y Bioquímica",
+	"careers": [
+		{
+			"career": "9 Bioquímica",
+			"subjects": [
+				"05 Química",
+				"24 Sociedad y Estado",
+				"40 Pensamiento Científico",
+				"51 Matemática",
+				"53 Biofísica",
+				"54 Biología Celular"
+			]
+		},
+		{
+			"career": "20 Farmacia",
+			"subjects": [
+				"05 Química",
+				"24 Sociedad y Estado",
+				"40 Pensamiento Científico",
+				"51 Matemática",
+				"53 Biofísica",
+				"54 Biología Celular"
+			]
+		},
+		{
+			"career": "56 Tecnicatura Universitaria en Óptica y Contactología",
+			"subjects": [
+				"51 Matemática",
+				"54 Biología Celular",
+				"70 Trabajo y Sociedad"
+			]
+		},
+		{
+			"career": "61 Tecnicatura Universitaria en Medicina Nuclear",
+			"subjects": ["05 Química", "54 Biología Celular", "70 Trabajo y Sociedad"]
+		},
+		{
+			"career": "149 Tec. Univ. en Gestión Integral de Bioterios",
+			"subjects": [
+				"05 Química",
+				"08 Biología",
+				"40 Pensamiento Científico",
+				"70 Trabajo y Sociedad"
+			]
+		},
+		{
+			"career": "140 Lic. en Ciencia y Tecnología de Alimentos",
+			"subjects": [
+				"03 Física",
+				"05 Química",
+				"24 Sociedad y Estado",
+				"40 Pensamiento Científico",
+				"54 Biología Celular",
+				"66 Análisis Matemático A"
+			]
+		}
+	]
+}

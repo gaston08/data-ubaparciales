@@ -1,0 +1,25 @@
+{
+	"faculty": "Facultad de Ciencias Veterinarias ",
+	"careers": [
+		{
+			"career": "45 Veterinaria",
+			"subjects": [
+				"05 Química",
+				"08 Biología",
+				"24 Sociedad y Estado",
+				"40 Pensamiento Científico",
+				"51 Matemática",
+				"53 Biofísica"
+			]
+		},
+		{
+			"career": "78 Tec. Univ. en Gestión Integral de Bioterios",
+			"subjects": [
+				"05 Química",
+				"08 Biología",
+				"40 Pensamiento Científico",
+				"70 Trabajo y Sociedad"
+			]
+		}
+	]
+}

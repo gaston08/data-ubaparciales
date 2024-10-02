@@ -1,0 +1,60 @@
+{
+	"faculty": "Facultad de  Ciencias Sociales",
+	"careers": [
+		{
+			"career": "37 Lic. en Relaciones del Trabajo",
+			"subjects": [
+				"14 Sociología",
+				"15 Psicología",
+				"21 Economía",
+				"22 Ciencia Política",
+				"24 Sociedad y Estado",
+				"40 Pensamiento Científico"
+			]
+		},
+		{
+			"career": "38 Lic. en Trabajo Social",
+			"subjects": [
+				"14 Sociología",
+				"15 Psicología",
+				"16 Antropología",
+				"21 Economía",
+				"24 Sociedad y Estado",
+				"40 Pensamiento Científico"
+			]
+		},
+		{
+			"career": "43 Sociología",
+			"subjects": [
+				"14 Sociología",
+				"16 Antropología",
+				"21 Economía",
+				"22 Ciencia Política",
+				"24 Sociedad y Estado",
+				"40 Pensamiento Científico"
+			]
+		},
+		{
+			"career": "52 Lic. en Ciencia Política",
+			"subjects": [
+				"14 Sociología",
+				"16 Antropología",
+				"21 Economía",
+				"22 Ciencia Política",
+				"24 Sociedad y Estado",
+				"40 Pensamiento Científico"
+			]
+		},
+		{
+			"career": "57 Lic. en Cs. de la Comunicación Social",
+			"subjects": [
+				"14 Sociología",
+				"15 Psicología",
+				"21 Economía",
+				"24 Sociedad y Estado",
+				"40 Pensamiento Científico",
+				"43 Semiología"
+			]
+		}
+	]
+}

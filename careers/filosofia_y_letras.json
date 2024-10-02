@@ -1,0 +1,178 @@
+{
+	"faculty": "Facultad de  Filosofía y Letras ",
+	"careers": [
+		{
+			"career": "6 Cs. Antropológicas",
+			"subjects": [
+				"14 Sociología",
+				"16 Antropología",
+				"21 Economía",
+				"24 Sociedad y Estado",
+				"40 Pensamiento Científico",
+				"43 Semiología"
+			]
+		},
+		{
+			"career": "8 Bibliotecología y Ciencia de la Información",
+			"subjects": [
+				"14 Sociología",
+				"21 Economía",
+				"24 Sociedad y Estado",
+				"40 Pensamiento Científico",
+				"42 Filosofía",
+				"43 Semiología"
+			]
+		},
+		{
+			"career": "13 Lic. en Cs. de la Educación",
+			"subjects": [
+				"14 Sociología",
+				"15 Psicología",
+				"24 Sociedad y Estado",
+				"40 Pensamiento Científico",
+				"42 Filosofía",
+				"16 Antropología",
+				"21 Economía",
+				"22 Ciencia Política",
+				"43 Semiología",
+				"89 Derecho Privado"
+			]
+		},
+		{
+			"career": "21 Lic. en Filosofía",
+			"subjects": [
+				"24 Sociedad y Estado",
+				"40 Pensamiento Científico",
+				"42 Filosofía",
+				"03 Física",
+				"05 Química",
+				"08 Biología",
+				"14 Sociología",
+				"15 Psicología",
+				"16 Antropología",
+				"21 Economía",
+				"22 Ciencia Política",
+				"43 Semiología",
+				"51 Matemática",
+				"61 Matemática (9H)",
+				"62 Álgebra A",
+				"66 Análisis Matemático A",
+				"89 Derecho Privado"
+			]
+		},
+		{
+			"career": "23 Geografía",
+			"subjects": [
+				"14 Sociología",
+				"16 Antropología",
+				"21 Economía",
+				"24 Sociedad y Estado",
+				"40 Pensamiento Científico",
+				"43 Semiología"
+			]
+		},
+		{
+			"career": "24 Historia",
+			"subjects": [
+				"14 Sociología",
+				"16 Antropología",
+				"21 Economía",
+				"24 Sociedad y Estado",
+				"40 Pensamiento Científico",
+				"43 Semiología"
+			]
+		},
+		{
+			"career": "25 Lic. en Artes",
+			"subjects": [
+				"24 Sociedad y Estado",
+				"40 Pensamiento Científico",
+				"42 Filosofía",
+				"43 Semiología",
+				"14 Sociología",
+				"15 Psicología",
+				"16 Antropología",
+				"21 Economía",
+				"22 Ciencia Política"
+			]
+		},
+		{
+			"career": "34 Letras",
+			"subjects": [
+				"14 Sociología",
+				"21 Economía",
+				"24 Sociedad y Estado",
+				"40 Pensamiento Científico",
+				"42 Filosofía",
+				"43 Semiología"
+			]
+		},
+		{
+			"career": "82 Edición",
+			"subjects": ["24 Sociedad y Estado", "40 Pensamiento Científico"]
+		},
+		{
+			"career": "136 Prof. de Enseñanza Media y Superior en Filosofía",
+			"subjects": [
+				"15 Psicología",
+				"24 Sociedad y Estado",
+				"40 Pensamiento Científico",
+				"42 Filosofía",
+				"03 Física",
+				"05 Química",
+				"08 Biología",
+				"14 Sociología",
+				"16 Antropología",
+				"21 Economía",
+				"22 Ciencia Política",
+				"43 Semiología",
+				"51 Matemática",
+				"61 Matemática (9H)",
+				"62 Álgebra A",
+				"66 Análisis Matemático A",
+				"89 Derecho Privado"
+			]
+		},
+		{
+			"career": "141 Prof. de Enseñanza Secundaria y Superior en Cs. de la Educación",
+			"subjects": [
+				"14 Sociología",
+				"15 Psicología",
+				"24 Sociedad y Estado",
+				"40 Pensamiento Científico",
+				"42 Filosofía",
+				"16 Antropología",
+				"21 Economía",
+				"22 Ciencia Política",
+				"43 Semiología",
+				"89 Derecho Privado"
+			]
+		},
+		{
+			"career": "144 Profesorado en Enseñanza Secundaria y Superior en Artes",
+			"subjects": [
+				"24 Sociedad y Estado",
+				"40 Pensamiento Científico",
+				"42 Filosofía",
+				"43 Semiología",
+				"14 Sociología",
+				"15 Psicología",
+				"16 Antropología",
+				"21 Economía",
+				"22 Ciencia Política"
+			]
+		},
+		{
+			"career": "148 Profesorado de Enseñanza Secundaria y Superior en Geografía",
+			"subjects": [
+				"15 Psicología",
+				"21 Economía",
+				"24 Sociedad y Estado",
+				"40 Pensamiento Científico",
+				"43 Semiología",
+				"14 Sociología",
+				"16 Antropología "
+			]
+		}
+	]
+}
