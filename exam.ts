@@ -44,3 +44,19 @@ export const exam_types: Array<selectType> = [
 export const exam_numbers: Array<number> = [
 	1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20,
 ];
+
+export const faculties = [
+	"Facultad de Agronomía",
+	"Facultad de Arquitectura, Diseño y Urbanismo",
+	"Facultad de Ciencias Económicas",
+	"Facultad de Ciencias Exactas y Naturales",
+	"Facultad de Ciencias Sociales",
+	"Facultad de Ciencias Veterinarias",
+	"Facultad de Derecho",
+	"Facultad de Farmacia y Bioquímica",
+	"Facultad de Filosofía y Letras",
+	"Facultad de Ingeniería",
+	"Facultad de Medicina",
+	"Facultad de Odontología",
+	"Facultad de Psicología",
+];
