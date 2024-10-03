@@ -56,7 +56,7 @@ export const faculties = [
 	"Facultad de Psicología",
 ];
 
-export interface careerInterface {
+export interface facultyInterface {
 	faculty: string;
 	careers: [
 		{
