@@ -4,133 +4,133 @@
 		{
 			"career": "5 Lic. en Análisis de Sistemas",
 			"subjects": [
-				{ "code": "03", "materia": "Física" },
-				{ "code": "24", "materia": "Sociedad y Estado" },
-				{ "code": "40", "materia": "Pensamiento Científico" },
-				{ "code": "62", "materia": "Álgebra A" },
-				{ "code": "66", "materia": "Análisis Matemático A" },
-				{ "code": "90", "materia": "Pensamiento Computacional" }
+				{ "code": "03", "subjectName": "Física" },
+				{ "code": "24", "subjectName": "Sociedad y Estado" },
+				{ "code": "40", "subjectName": "Pensamiento Científico" },
+				{ "code": "62", "subjectName": "Álgebra A" },
+				{ "code": "66", "subjectName": "Análisis Matemático A" },
+				{ "code": "90", "subjectName": "Pensamiento Computacional" }
 			]
 		},
 		{
 			"career": "26 Ingeniería Civil",
 			"subjects": [
-				{ "code": "03", "materia": "Física" },
-				{ "code": "24", "materia": "Sociedad y Estado" },
-				{ "code": "40", "materia": "Pensamiento Científico" },
-				{ "code": "62", "materia": "Álgebra A" },
-				{ "code": "66", "materia": "Análisis Matemático A" },
-				{ "code": "90", "materia": "Pensamiento Computacional" }
+				{ "code": "03", "subjectName": "Física" },
+				{ "code": "24", "subjectName": "Sociedad y Estado" },
+				{ "code": "40", "subjectName": "Pensamiento Científico" },
+				{ "code": "62", "subjectName": "Álgebra A" },
+				{ "code": "66", "subjectName": "Análisis Matemático A" },
+				{ "code": "90", "subjectName": "Pensamiento Computacional" }
 			]
 		},
 		{
 			"career": "27 Ingeniería Electricista",
 			"subjects": [
-				{ "code": "03", "materia": "Física" },
-				{ "code": "24", "materia": "Sociedad y Estado" },
-				{ "code": "40", "materia": "Pensamiento Científico" },
-				{ "code": "62", "materia": "Álgebra A" },
-				{ "code": "66", "materia": "Análisis Matemático A" },
-				{ "code": "90", "materia": "Pensamiento Computacional" }
+				{ "code": "03", "subjectName": "Física" },
+				{ "code": "24", "subjectName": "Sociedad y Estado" },
+				{ "code": "40", "subjectName": "Pensamiento Científico" },
+				{ "code": "62", "subjectName": "Álgebra A" },
+				{ "code": "66", "subjectName": "Análisis Matemático A" },
+				{ "code": "90", "subjectName": "Pensamiento Computacional" }
 			]
 		},
 		{
 			"career": "28 Ingeniería Electrónica",
 			"subjects": [
-				{ "code": "03", "materia": "Física" },
-				{ "code": "24", "materia": "Sociedad y Estado" },
-				{ "code": "40", "materia": "Pensamiento Científico" },
-				{ "code": "62", "materia": "Álgebra A" },
-				{ "code": "66", "materia": "Análisis Matemático A" },
-				{ "code": "90", "materia": "Pensamiento Computacional" }
+				{ "code": "03", "subjectName": "Física" },
+				{ "code": "24", "subjectName": "Sociedad y Estado" },
+				{ "code": "40", "subjectName": "Pensamiento Científico" },
+				{ "code": "62", "subjectName": "Álgebra A" },
+				{ "code": "66", "subjectName": "Análisis Matemático A" },
+				{ "code": "90", "subjectName": "Pensamiento Computacional" }
 			]
 		},
 		{
 			"career": "29 Ingeniería Mecánica",
 			"subjects": [
-				{ "code": "03", "materia": "Física" },
-				{ "code": "24", "materia": "Sociedad y Estado" },
-				{ "code": "40", "materia": "Pensamiento Científico" },
-				{ "code": "62", "materia": "Álgebra A" },
-				{ "code": "66", "materia": "Análisis Matemático A" },
-				{ "code": "90", "materia": "Pensamiento Computacional" }
+				{ "code": "03", "subjectName": "Física" },
+				{ "code": "24", "subjectName": "Sociedad y Estado" },
+				{ "code": "40", "subjectName": "Pensamiento Científico" },
+				{ "code": "62", "subjectName": "Álgebra A" },
+				{ "code": "66", "subjectName": "Análisis Matemático A" },
+				{ "code": "90", "subjectName": "Pensamiento Computacional" }
 			]
 		},
 		{
 			"career": "30 Ingeniería Industrial",
 			"subjects": [
-				{ "code": "03", "materia": "Física" },
-				{ "code": "24", "materia": "Sociedad y Estado" },
-				{ "code": "40", "materia": "Pensamiento Científico" },
-				{ "code": "62", "materia": "Álgebra A" },
-				{ "code": "66", "materia": "Análisis Matemático A" },
-				{ "code": "90", "materia": "Pensamiento Computacional" }
+				{ "code": "03", "subjectName": "Física" },
+				{ "code": "24", "subjectName": "Sociedad y Estado" },
+				{ "code": "40", "subjectName": "Pensamiento Científico" },
+				{ "code": "62", "subjectName": "Álgebra A" },
+				{ "code": "66", "subjectName": "Análisis Matemático A" },
+				{ "code": "90", "subjectName": "Pensamiento Computacional" }
 			]
 		},
 		{
 			"career": "31 Ingeniería Naval y Mecánica",
 			"subjects": [
-				{ "code": "03", "materia": "Física" },
-				{ "code": "24", "materia": "Sociedad y Estado" },
-				{ "code": "40", "materia": "Pensamiento Científico" },
-				{ "code": "62", "materia": "Álgebra A" },
-				{ "code": "66", "materia": "Análisis Matemático A" },
-				{ "code": "90", "materia": "Pensamiento Computacional" }
+				{ "code": "03", "subjectName": "Física" },
+				{ "code": "24", "subjectName": "Sociedad y Estado" },
+				{ "code": "40", "subjectName": "Pensamiento Científico" },
+				{ "code": "62", "subjectName": "Álgebra A" },
+				{ "code": "66", "subjectName": "Análisis Matemático A" },
+				{ "code": "90", "subjectName": "Pensamiento Computacional" }
 			]
 		},
 		{
 			"career": "32 Ingeniería Química",
 			"subjects": [
-				{ "code": "03", "materia": "Física" },
-				{ "code": "24", "materia": "Sociedad y Estado" },
-				{ "code": "40", "materia": "Pensamiento Científico" },
-				{ "code": "62", "materia": "Álgebra A" },
-				{ "code": "66", "materia": "Análisis Matemático A" },
-				{ "code": "90", "materia": "Pensamiento Computacional" }
+				{ "code": "03", "subjectName": "Física" },
+				{ "code": "24", "subjectName": "Sociedad y Estado" },
+				{ "code": "40", "subjectName": "Pensamiento Científico" },
+				{ "code": "62", "subjectName": "Álgebra A" },
+				{ "code": "66", "subjectName": "Análisis Matemático A" },
+				{ "code": "90", "subjectName": "Pensamiento Computacional" }
 			]
 		},
 		{
 			"career": "67 Ingeniería en Agrimensura",
 			"subjects": [
-				{ "code": "03", "materia": "Física" },
-				{ "code": "24", "materia": "Sociedad y Estado" },
-				{ "code": "40", "materia": "Pensamiento Científico" },
-				{ "code": "62", "materia": "Álgebra A" },
-				{ "code": "66", "materia": "Análisis Matemático A" },
-				{ "code": "90", "materia": "Pensamiento Computacional" }
+				{ "code": "03", "subjectName": "Física" },
+				{ "code": "24", "subjectName": "Sociedad y Estado" },
+				{ "code": "40", "subjectName": "Pensamiento Científico" },
+				{ "code": "62", "subjectName": "Álgebra A" },
+				{ "code": "66", "subjectName": "Análisis Matemático A" },
+				{ "code": "90", "subjectName": "Pensamiento Computacional" }
 			]
 		},
 		{
 			"career": "90 Ingeniería en Informática",
 			"subjects": [
-				{ "code": "03", "materia": "Física" },
-				{ "code": "24", "materia": "Sociedad y Estado" },
-				{ "code": "40", "materia": "Pensamiento Científico" },
-				{ "code": "62", "materia": "Álgebra A" },
-				{ "code": "66", "materia": "Análisis Matemático A" },
-				{ "code": "90", "materia": "Pensamiento Computacional" }
+				{ "code": "03", "subjectName": "Física" },
+				{ "code": "24", "subjectName": "Sociedad y Estado" },
+				{ "code": "40", "subjectName": "Pensamiento Científico" },
+				{ "code": "62", "subjectName": "Álgebra A" },
+				{ "code": "66", "subjectName": "Análisis Matemático A" },
+				{ "code": "90", "subjectName": "Pensamiento Computacional" }
 			]
 		},
 		{
 			"career": "135 Ingeniería en Petróleo",
 			"subjects": [
-				{ "code": "03", "materia": "Física" },
-				{ "code": "24", "materia": "Sociedad y Estado" },
-				{ "code": "40", "materia": "Pensamiento Científico" },
-				{ "code": "62", "materia": "Álgebra A" },
-				{ "code": "66", "materia": "Análisis Matemático A" },
-				{ "code": "90", "materia": "Pensamiento Computacional" }
+				{ "code": "03", "subjectName": "Física" },
+				{ "code": "24", "subjectName": "Sociedad y Estado" },
+				{ "code": "40", "subjectName": "Pensamiento Científico" },
+				{ "code": "62", "subjectName": "Álgebra A" },
+				{ "code": "66", "subjectName": "Análisis Matemático A" },
+				{ "code": "90", "subjectName": "Pensamiento Computacional" }
 			]
 		},
 		{
 			"career": "146 Ingeniería de Alimentos",
 			"subjects": [
-				{ "code": "03", "materia": "Física" },
-				{ "code": "24", "materia": "Sociedad y Estado" },
-				{ "code": "40", "materia": "Pensamiento Científico" },
-				{ "code": "62", "materia": "Álgebra A" },
-				{ "code": "66", "materia": "Análisis Matemático A" },
-				{ "code": "90", "materia": "Pensamiento Computacional" }
+				{ "code": "03", "subjectName": "Física" },
+				{ "code": "24", "subjectName": "Sociedad y Estado" },
+				{ "code": "40", "subjectName": "Pensamiento Científico" },
+				{ "code": "62", "subjectName": "Álgebra A" },
+				{ "code": "66", "subjectName": "Análisis Matemático A" },
+				{ "code": "90", "subjectName": "Pensamiento Computacional" }
 			]
 		}
 	]

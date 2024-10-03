@@ -4,59 +4,59 @@
 		{
 			"career": "9 Bioquímica",
 			"subjects": [
-				{ "code": "05", "materia": "Química" },
-				{ "code": "24", "materia": "Sociedad y Estado" },
-				{ "code": "40", "materia": "Pensamiento Científico" },
-				{ "code": "51", "materia": "Matemática" },
-				{ "code": "53", "materia": "Biofísica" },
-				{ "code": "54", "materia": "Biología Celular" }
+				{ "code": "05", "subjectName": "Química" },
+				{ "code": "24", "subjectName": "Sociedad y Estado" },
+				{ "code": "40", "subjectName": "Pensamiento Científico" },
+				{ "code": "51", "subjectName": "Matemática" },
+				{ "code": "53", "subjectName": "Biofísica" },
+				{ "code": "54", "subjectName": "Biología Celular" }
 			]
 		},
 		{
 			"career": "20 Farmacia",
 			"subjects": [
-				{ "code": "05", "materia": "Química" },
-				{ "code": "24", "materia": "Sociedad y Estado" },
-				{ "code": "40", "materia": "Pensamiento Científico" },
-				{ "code": "51", "materia": "Matemática" },
-				{ "code": "53", "materia": "Biofísica" },
-				{ "code": "54", "materia": "Biología Celular" }
+				{ "code": "05", "subjectName": "Química" },
+				{ "code": "24", "subjectName": "Sociedad y Estado" },
+				{ "code": "40", "subjectName": "Pensamiento Científico" },
+				{ "code": "51", "subjectName": "Matemática" },
+				{ "code": "53", "subjectName": "Biofísica" },
+				{ "code": "54", "subjectName": "Biología Celular" }
 			]
 		},
 		{
 			"career": "56 Tecnicatura Universitaria en Óptica y Contactología",
 			"subjects": [
-				{ "code": "51", "materia": "Matemática" },
-				{ "code": "54", "materia": "Biología Celular" },
-				{ "code": "70", "materia": "Trabajo y Sociedad" }
+				{ "code": "51", "subjectName": "Matemática" },
+				{ "code": "54", "subjectName": "Biología Celular" },
+				{ "code": "70", "subjectName": "Trabajo y Sociedad" }
 			]
 		},
 		{
 			"career": "61 Tecnicatura Universitaria en Medicina Nuclear",
 			"subjects": [
-				{ "code": "05", "materia": "Química" },
-				{ "code": "54", "materia": "Biología Celular" },
-				{ "code": "70", "materia": "Trabajo y Sociedad" }
+				{ "code": "05", "subjectName": "Química" },
+				{ "code": "54", "subjectName": "Biología Celular" },
+				{ "code": "70", "subjectName": "Trabajo y Sociedad" }
 			]
 		},
 		{
 			"career": "149 Tec. Univ. en Gestión Integral de Bioterios",
 			"subjects": [
-				{ "code": "05", "materia": "Química" },
-				{ "code": "08", "materia": "Biología" },
-				{ "code": "40", "materia": "Pensamiento Científico" },
-				{ "code": "70", "materia": "Trabajo y Sociedad" }
+				{ "code": "05", "subjectName": "Química" },
+				{ "code": "08", "subjectName": "Biología" },
+				{ "code": "40", "subjectName": "Pensamiento Científico" },
+				{ "code": "70", "subjectName": "Trabajo y Sociedad" }
 			]
 		},
 		{
 			"career": "140 Lic. en Ciencia y Tecnología de Alimentos",
 			"subjects": [
-				{ "code": "03", "materia": "Física" },
-				{ "code": "05", "materia": "Química" },
-				{ "code": "24", "materia": "Sociedad y Estado" },
-				{ "code": "40", "materia": "Pensamiento Científico" },
-				{ "code": "54", "materia": "Biología Celular" },
-				{ "code": "66", "materia": "Análisis Matemático A" }
+				{ "code": "03", "subjectName": "Física" },
+				{ "code": "05", "subjectName": "Química" },
+				{ "code": "24", "subjectName": "Sociedad y Estado" },
+				{ "code": "40", "subjectName": "Pensamiento Científico" },
+				{ "code": "54", "subjectName": "Biología Celular" },
+				{ "code": "66", "subjectName": "Análisis Matemático A" }
 			]
 		}
 	]

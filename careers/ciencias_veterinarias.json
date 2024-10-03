@@ -4,21 +4,21 @@
 		{
 			"career": "45 Veterinaria",
 			"subjects": [
-				{ "code": "05", "materia": "Química" },
-				{ "code": "08", "materia": "Biología" },
-				{ "code": "24", "materia": "Sociedad y Estado" },
-				{ "code": "40", "materia": "Pensamiento Científico" },
-				{ "code": "51", "materia": "Matemática" },
-				{ "code": "53", "materia": "Biofísica" }
+				{ "code": "05", "subjectName": "Química" },
+				{ "code": "08", "subjectName": "Biología" },
+				{ "code": "24", "subjectName": "Sociedad y Estado" },
+				{ "code": "40", "subjectName": "Pensamiento Científico" },
+				{ "code": "51", "subjectName": "Matemática" },
+				{ "code": "53", "subjectName": "Biofísica" }
 			]
 		},
 		{
 			"career": "78 Tec. Univ. en Gestión Integral de Bioterios",
 			"subjects": [
-				{ "code": "05", "materia": "Química" },
-				{ "code": "08", "materia": "Biología" },
-				{ "code": "40", "materia": "Pensamiento Científico" },
-				{ "code": "70", "materia": "Trabajo y Sociedad" }
+				{ "code": "05", "subjectName": "Química" },
+				{ "code": "08", "subjectName": "Biología" },
+				{ "code": "40", "subjectName": "Pensamiento Científico" },
+				{ "code": "70", "subjectName": "Trabajo y Sociedad" }
 			]
 		}
 	]

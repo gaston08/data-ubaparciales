@@ -4,42 +4,42 @@
 		{
 			"career": "1 Abogacía",
 			"subjects": [
-				{ "code": "14", "materia": "Sociología" },
-				{ "code": "22", "materia": "Ciencia Política" },
-				{ "code": "24", "materia": "Sociedad y Estado" },
-				{ "code": "40", "materia": "Pensamiento Científico" },
-				{ "code": "50", "materia": "DDHH y Derecho Constitucional" },
-				{ "code": "89", "materia": "Derecho Privado" }
+				{ "code": "14", "subjectName": "Sociología" },
+				{ "code": "22", "subjectName": "Ciencia Política" },
+				{ "code": "24", "subjectName": "Sociedad y Estado" },
+				{ "code": "40", "subjectName": "Pensamiento Científico" },
+				{ "code": "50", "subjectName": "DDHH y Derecho Constitucional" },
+				{ "code": "89", "subjectName": "Derecho Privado" }
 			]
 		},
 		{
 			"career": "10 Calígrafo Público",
 			"subjects": [
-				{ "code": "40", "materia": "Pensamiento Científico" },
-				{ "code": "70", "materia": "Trabajo y Sociedad" },
-				{ "code": "89", "materia": "Derecho Privado" }
+				{ "code": "40", "subjectName": "Pensamiento Científico" },
+				{ "code": "70", "subjectName": "Trabajo y Sociedad" },
+				{ "code": "89", "subjectName": "Derecho Privado" }
 			]
 		},
 		{
 			"career": "44 Traductorado Público",
 			"subjects": [
-				{ "code": "14", "materia": "Sociología" },
-				{ "code": "24", "materia": "Sociedad y Estado" },
-				{ "code": "40", "materia": "Pensamiento Científico" },
-				{ "code": "43", "materia": "Semiología" },
-				{ "code": "50", "materia": "DDHH y Derecho Constitucional" },
-				{ "code": "89", "materia": "Derecho Privado" }
+				{ "code": "14", "subjectName": "Sociología" },
+				{ "code": "24", "subjectName": "Sociedad y Estado" },
+				{ "code": "40", "subjectName": "Pensamiento Científico" },
+				{ "code": "43", "subjectName": "Semiología" },
+				{ "code": "50", "subjectName": "DDHH y Derecho Constitucional" },
+				{ "code": "89", "subjectName": "Derecho Privado" }
 			]
 		},
 		{
 			"career": "143 Prof. en Enseñanza Media y Superior en Cs. Jurídicas",
 			"subjects": [
-				{ "code": "14", "materia": "Sociología" },
-				{ "code": "22", "materia": "Ciencia Política" },
-				{ "code": "24", "materia": "Sociedad y Estado" },
-				{ "code": "40", "materia": "Pensamiento Científico" },
-				{ "code": "50", "materia": "DDHH y Derecho Constitucional" },
-				{ "code": "89", "materia": "Derecho Privado" }
+				{ "code": "14", "subjectName": "Sociología" },
+				{ "code": "22", "subjectName": "Ciencia Política" },
+				{ "code": "24", "subjectName": "Sociedad y Estado" },
+				{ "code": "40", "subjectName": "Pensamiento Científico" },
+				{ "code": "50", "subjectName": "DDHH y Derecho Constitucional" },
+				{ "code": "89", "subjectName": "Derecho Privado" }
 			]
 		}
 	]

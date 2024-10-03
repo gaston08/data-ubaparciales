@@ -4,204 +4,204 @@
 		{
 			"career": "11 Lic. en Ciencias Biológicas",
 			"subjects": [
-				{ "code": "03", "materia": "Física" },
-				{ "code": "05", "materia": "Química" },
-				{ "code": "08", "materia": "Biología" },
-				{ "code": "24", "materia": "Sociedad y Estado" },
-				{ "code": "40", "materia": "Pensamiento Científico" },
-				{ "code": "61", "materia": "Matemática (9H)" }
+				{ "code": "03", "subjectName": "Física" },
+				{ "code": "05", "subjectName": "Química" },
+				{ "code": "08", "subjectName": "Biología" },
+				{ "code": "24", "subjectName": "Sociedad y Estado" },
+				{ "code": "40", "subjectName": "Pensamiento Científico" },
+				{ "code": "61", "subjectName": "Matemática (9H)" }
 			]
 		},
 		{
 			"career": "12 Lic. en Cs. de la Computación",
 			"subjects": [
-				{ "code": "24", "materia": "Sociedad y Estado" },
-				{ "code": "27", "materia": "Álgebra" },
-				{ "code": "40", "materia": "Pensamiento Científico" },
-				{ "code": "66", "materia": "Análisis Matemático A" },
-				{ "code": "03", "materia": "Física" },
-				{ "code": "05", "materia": "Química" },
-				{ "code": "90", "materia": "Pensamiento Computacional" }
+				{ "code": "24", "subjectName": "Sociedad y Estado" },
+				{ "code": "27", "subjectName": "Álgebra" },
+				{ "code": "40", "subjectName": "Pensamiento Científico" },
+				{ "code": "66", "subjectName": "Análisis Matemático A" },
+				{ "code": "03", "subjectName": "Física" },
+				{ "code": "05", "subjectName": "Química" },
+				{ "code": "90", "subjectName": "Pensamiento Computacional" }
 			]
 		},
 		{
 			"career": "14 Lic. en Cs. Físicas",
 			"subjects": [
-				{ "code": "03", "materia": "Física" },
-				{ "code": "05", "materia": "Química" },
-				{ "code": "24", "materia": "Sociedad y Estado" },
-				{ "code": "27", "materia": "Álgebra" },
-				{ "code": "40", "materia": "Pensamiento Científico" },
-				{ "code": "66", "materia": "Análisis Matemático A" }
+				{ "code": "03", "subjectName": "Física" },
+				{ "code": "05", "subjectName": "Química" },
+				{ "code": "24", "subjectName": "Sociedad y Estado" },
+				{ "code": "27", "subjectName": "Álgebra" },
+				{ "code": "40", "subjectName": "Pensamiento Científico" },
+				{ "code": "66", "subjectName": "Análisis Matemático A" }
 			]
 		},
 		{
 			"career": "15 Prof. enseñanza media y superior en Cs. Geológicas",
 			"subjects": [
-				{ "code": "03", "materia": "Física" },
-				{ "code": "05", "materia": "Química" },
-				{ "code": "24", "materia": "Sociedad y Estado" },
-				{ "code": "27", "materia": "Álgebra" },
-				{ "code": "40", "materia": "Pensamiento Científico" },
-				{ "code": "66", "materia": "Análisis Matemático A" }
+				{ "code": "03", "subjectName": "Física" },
+				{ "code": "05", "subjectName": "Química" },
+				{ "code": "24", "subjectName": "Sociedad y Estado" },
+				{ "code": "27", "subjectName": "Álgebra" },
+				{ "code": "40", "subjectName": "Pensamiento Científico" },
+				{ "code": "66", "subjectName": "Análisis Matemático A" }
 			]
 		},
 		{
 			"career": "16 Lic. en Cs. Matemáticas",
 			"subjects": [
-				{ "code": "24", "materia": "Sociedad y Estado" },
-				{ "code": "27", "materia": "Álgebra" },
-				{ "code": "40", "materia": "Pensamiento Científico" },
-				{ "code": "66", "materia": "Análisis Matemático A" },
-				{ "code": "03", "materia": "Física" },
-				{ "code": "05", "materia": "Química" },
-				{ "code": "90", "materia": "Pensamiento Computacional" }
+				{ "code": "24", "subjectName": "Sociedad y Estado" },
+				{ "code": "27", "subjectName": "Álgebra" },
+				{ "code": "40", "subjectName": "Pensamiento Científico" },
+				{ "code": "66", "subjectName": "Análisis Matemático A" },
+				{ "code": "03", "subjectName": "Física" },
+				{ "code": "05", "subjectName": "Química" },
+				{ "code": "90", "subjectName": "Pensamiento Computacional" }
 			]
 		},
 		{
 			"career": "17 Lic. en Cs. de la Atmósfera",
 			"subjects": [
-				{ "code": "03", "materia": "Física" },
-				{ "code": "05", "materia": "Química" },
-				{ "code": "24", "materia": "Sociedad y Estado" },
-				{ "code": "27", "materia": "Álgebra" },
-				{ "code": "40", "materia": "Pensamiento Científico" },
-				{ "code": "66", "materia": "Análisis Matemático A" }
+				{ "code": "03", "subjectName": "Física" },
+				{ "code": "05", "subjectName": "Química" },
+				{ "code": "24", "subjectName": "Sociedad y Estado" },
+				{ "code": "27", "subjectName": "Álgebra" },
+				{ "code": "40", "subjectName": "Pensamiento Científico" },
+				{ "code": "66", "subjectName": "Análisis Matemático A" }
 			]
 		},
 		{
 			"career": "18 Lic. en Cs. Químicas",
 			"subjects": [
-				{ "code": "03", "materia": "Física" },
-				{ "code": "05", "materia": "Química" },
-				{ "code": "24", "materia": "Sociedad y Estado" },
-				{ "code": "27", "materia": "Álgebra" },
-				{ "code": "40", "materia": "Pensamiento Científico" },
-				{ "code": "66", "materia": "Análisis Matemático A" }
+				{ "code": "03", "subjectName": "Física" },
+				{ "code": "05", "subjectName": "Química" },
+				{ "code": "24", "subjectName": "Sociedad y Estado" },
+				{ "code": "27", "subjectName": "Álgebra" },
+				{ "code": "40", "subjectName": "Pensamiento Científico" },
+				{ "code": "66", "subjectName": "Análisis Matemático A" }
 			]
 		},
 		{
 			"career": "87 Lic. en Cs. Oceanográficas",
 			"subjects": [
-				{ "code": "03", "materia": "Física" },
-				{ "code": "05", "materia": "Química" },
-				{ "code": "24", "materia": "Sociedad y Estado" },
-				{ "code": "27", "materia": "Álgebra" },
-				{ "code": "40", "materia": "Pensamiento Científico" },
-				{ "code": "66", "materia": "Análisis Matemático A" }
+				{ "code": "03", "subjectName": "Física" },
+				{ "code": "05", "subjectName": "Química" },
+				{ "code": "24", "subjectName": "Sociedad y Estado" },
+				{ "code": "27", "subjectName": "Álgebra" },
+				{ "code": "40", "subjectName": "Pensamiento Científico" },
+				{ "code": "66", "subjectName": "Análisis Matemático A" }
 			]
 		},
 		{
 			"career": "95 Lic. en Paleontología",
 			"subjects": [
-				{ "code": "03", "materia": "Física" },
-				{ "code": "05", "materia": "Química" },
-				{ "code": "08", "materia": "Biología" },
-				{ "code": "24", "materia": "Sociedad y Estado" },
-				{ "code": "40", "materia": "Pensamiento Científico" },
-				{ "code": "66", "materia": "Análisis Matemático A" }
+				{ "code": "03", "subjectName": "Física" },
+				{ "code": "05", "subjectName": "Química" },
+				{ "code": "08", "subjectName": "Biología" },
+				{ "code": "24", "subjectName": "Sociedad y Estado" },
+				{ "code": "40", "subjectName": "Pensamiento Científico" },
+				{ "code": "66", "subjectName": "Análisis Matemático A" }
 			]
 		},
 		{
 			"career": "124 Prof. de Enseñanza Media y Superior en Cs. Biológicas",
 			"subjects": [
-				{ "code": "03", "materia": "Física" },
-				{ "code": "05", "materia": "Química" },
-				{ "code": "08", "materia": "Biología" },
-				{ "code": "24", "materia": "Sociedad y Estado" },
-				{ "code": "40", "materia": "Pensamiento Científico" },
-				{ "code": "61", "materia": "Matemática (9H)" }
+				{ "code": "03", "subjectName": "Física" },
+				{ "code": "05", "subjectName": "Química" },
+				{ "code": "08", "subjectName": "Biología" },
+				{ "code": "24", "subjectName": "Sociedad y Estado" },
+				{ "code": "40", "subjectName": "Pensamiento Científico" },
+				{ "code": "61", "subjectName": "Matemática (9H)" }
 			]
 		},
 		{
 			"career": "125 Prof. de Enseñanza Media y Superior en Cs. de la Atmósfera",
 			"subjects": [
-				{ "code": "03", "materia": "Física" },
-				{ "code": "05", "materia": "Química" },
-				{ "code": "24", "materia": "Sociedad y Estado" },
-				{ "code": "27", "materia": "Álgebra" },
-				{ "code": "40", "materia": "Pensamiento Científico" },
-				{ "code": "66", "materia": "Análisis Matemático A" }
+				{ "code": "03", "subjectName": "Física" },
+				{ "code": "05", "subjectName": "Química" },
+				{ "code": "24", "subjectName": "Sociedad y Estado" },
+				{ "code": "27", "subjectName": "Álgebra" },
+				{ "code": "40", "subjectName": "Pensamiento Científico" },
+				{ "code": "66", "subjectName": "Análisis Matemático A" }
 			]
 		},
 		{
 			"career": "126 Prof. de Enseñanza Media y Superior en Cs. de la Computación",
 			"subjects": [
-				{ "code": "24", "materia": "Sociedad y Estado" },
-				{ "code": "27", "materia": "Álgebra" },
-				{ "code": "40", "materia": "Pensamiento Científico" },
-				{ "code": "66", "materia": "Análisis Matemático A" },
-				{ "code": "03", "materia": "Física" },
-				{ "code": "05", "materia": "Química" },
-				{ "code": "90", "materia": "Pensamiento Computacional" }
+				{ "code": "24", "subjectName": "Sociedad y Estado" },
+				{ "code": "27", "subjectName": "Álgebra" },
+				{ "code": "40", "subjectName": "Pensamiento Científico" },
+				{ "code": "66", "subjectName": "Análisis Matemático A" },
+				{ "code": "03", "subjectName": "Física" },
+				{ "code": "05", "subjectName": "Química" },
+				{ "code": "90", "subjectName": "Pensamiento Computacional" }
 			]
 		},
 		{
 			"career": "127 Prof. de Enseñanza Media y Superior en Física",
 			"subjects": [
-				{ "code": "03", "materia": "Física" },
-				{ "code": "05", "materia": "Química" },
-				{ "code": "24", "materia": "Sociedad y Estado" },
-				{ "code": "27", "materia": "Álgebra" },
-				{ "code": "40", "materia": "Pensamiento Científico" },
-				{ "code": "66", "materia": "Análisis Matemático A" }
+				{ "code": "03", "subjectName": "Física" },
+				{ "code": "05", "subjectName": "Química" },
+				{ "code": "24", "subjectName": "Sociedad y Estado" },
+				{ "code": "27", "subjectName": "Álgebra" },
+				{ "code": "40", "subjectName": "Pensamiento Científico" },
+				{ "code": "66", "subjectName": "Análisis Matemático A" }
 			]
 		},
 		{
 			"career": "128 Prof. de Enseñanza Media y Superior en Cs. Geológicas",
 			"subjects": [
-				{ "code": "03", "materia": "Física" },
-				{ "code": "05", "materia": "Química" },
-				{ "code": "24", "materia": "Sociedad y Estado" },
-				{ "code": "27", "materia": "Álgebra" },
-				{ "code": "40", "materia": "Pensamiento Científico" },
-				{ "code": "66", "materia": "Análisis Matemático A" }
+				{ "code": "03", "subjectName": "Física" },
+				{ "code": "05", "subjectName": "Química" },
+				{ "code": "24", "subjectName": "Sociedad y Estado" },
+				{ "code": "27", "subjectName": "Álgebra" },
+				{ "code": "40", "subjectName": "Pensamiento Científico" },
+				{ "code": "66", "subjectName": "Análisis Matemático A" }
 			]
 		},
 		{
 			"career": "129 Prof. de Enseñanza Media y Superior en Matemática",
 			"subjects": [
-				{ "code": "24", "materia": "Sociedad y Estado" },
-				{ "code": "27", "materia": "Álgebra" },
-				{ "code": "40", "materia": "Pensamiento Científico" },
-				{ "code": "66", "materia": "Análisis Matemático A" },
-				{ "code": "03", "materia": "Física" },
-				{ "code": "05", "materia": "Química" },
-				{ "code": "90", "materia": "Pensamiento Computacional" }
+				{ "code": "24", "subjectName": "Sociedad y Estado" },
+				{ "code": "27", "subjectName": "Álgebra" },
+				{ "code": "40", "subjectName": "Pensamiento Científico" },
+				{ "code": "66", "subjectName": "Análisis Matemático A" },
+				{ "code": "03", "subjectName": "Física" },
+				{ "code": "05", "subjectName": "Química" },
+				{ "code": "90", "subjectName": "Pensamiento Computacional" }
 			]
 		},
 		{
 			"career": "130 Prof. de Enseñanza Media y Superior en Química",
 			"subjects": [
-				{ "code": "03", "materia": "Física" },
-				{ "code": "05", "materia": "Química" },
-				{ "code": "24", "materia": "Sociedad y Estado" },
-				{ "code": "27", "materia": "Álgebra" },
-				{ "code": "40", "materia": "Pensamiento Científico" },
-				{ "code": "66", "materia": "Análisis Matemático A" }
+				{ "code": "03", "subjectName": "Física" },
+				{ "code": "05", "subjectName": "Química" },
+				{ "code": "24", "subjectName": "Sociedad y Estado" },
+				{ "code": "27", "subjectName": "Álgebra" },
+				{ "code": "40", "subjectName": "Pensamiento Científico" },
+				{ "code": "66", "subjectName": "Análisis Matemático A" }
 			]
 		},
 		{
 			"career": "140 Lic. en Ciencia y Tecnología de Alimentos",
 			"subjects": [
-				{ "code": "03", "materia": "Física" },
-				{ "code": "05", "materia": "Química" },
-				{ "code": "24", "materia": "Sociedad y Estado" },
-				{ "code": "40", "materia": "Pensamiento Científico" },
-				{ "code": "54", "materia": "Biología Celular" },
-				{ "code": "66", "materia": "Análisis Matemático A" }
+				{ "code": "03", "subjectName": "Física" },
+				{ "code": "05", "subjectName": "Química" },
+				{ "code": "24", "subjectName": "Sociedad y Estado" },
+				{ "code": "40", "subjectName": "Pensamiento Científico" },
+				{ "code": "54", "subjectName": "Biología Celular" },
+				{ "code": "66", "subjectName": "Análisis Matemático A" }
 			]
 		},
 		{
 			"career": "145 Lic. en Ciencias de Datos",
 			"subjects": [
-				{ "code": "24", "materia": "Sociedad y Estado" },
-				{ "code": "27", "materia": "Álgebra" },
-				{ "code": "40", "materia": "Pensamiento Científico" },
-				{ "code": "66", "materia": "Análisis Matemático A" },
-				{ "code": "03", "materia": "Física" },
-				{ "code": "05", "materia": "Química" },
-				{ "code": "90", "materia": "Pensamiento Computacional" }
+				{ "code": "24", "subjectName": "Sociedad y Estado" },
+				{ "code": "27", "subjectName": "Álgebra" },
+				{ "code": "40", "subjectName": "Pensamiento Científico" },
+				{ "code": "66", "subjectName": "Análisis Matemático A" },
+				{ "code": "03", "subjectName": "Física" },
+				{ "code": "05", "subjectName": "Química" },
+				{ "code": "90", "subjectName": "Pensamiento Computacional" }
 			]
 		}
 	]

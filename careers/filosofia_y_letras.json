@@ -4,177 +4,177 @@
 		{
 			"career": "6 Cs. Antropológicas",
 			"subjects": [
-				{ "code": "14", "materia": "Sociología" },
-				{ "code": "16", "materia": "Antropología" },
-				{ "code": "21", "materia": "Economía" },
-				{ "code": "24", "materia": "Sociedad y Estado" },
-				{ "code": "40", "materia": "Pensamiento Científico" },
-				{ "code": "43", "materia": "Semiología" }
+				{ "code": "14", "subjectName": "Sociología" },
+				{ "code": "16", "subjectName": "Antropología" },
+				{ "code": "21", "subjectName": "Economía" },
+				{ "code": "24", "subjectName": "Sociedad y Estado" },
+				{ "code": "40", "subjectName": "Pensamiento Científico" },
+				{ "code": "43", "subjectName": "Semiología" }
 			]
 		},
 		{
 			"career": "8 Bibliotecología y Ciencia de la Información",
 			"subjects": [
-				{ "code": "14", "materia": "Sociología" },
-				{ "code": "21", "materia": "Economía" },
-				{ "code": "24", "materia": "Sociedad y Estado" },
-				{ "code": "40", "materia": "Pensamiento Científico" },
-				{ "code": "42", "materia": "Filosofía" },
-				{ "code": "43", "materia": "Semiología" }
+				{ "code": "14", "subjectName": "Sociología" },
+				{ "code": "21", "subjectName": "Economía" },
+				{ "code": "24", "subjectName": "Sociedad y Estado" },
+				{ "code": "40", "subjectName": "Pensamiento Científico" },
+				{ "code": "42", "subjectName": "Filosofía" },
+				{ "code": "43", "subjectName": "Semiología" }
 			]
 		},
 		{
 			"career": "13 Lic. en Cs. de la Educación",
 			"subjects": [
-				{ "code": "14", "materia": "Sociología" },
-				{ "code": "15", "materia": "Psicología" },
-				{ "code": "24", "materia": "Sociedad y Estado" },
-				{ "code": "40", "materia": "Pensamiento Científico" },
-				{ "code": "42", "materia": "Filosofía" },
-				{ "code": "16", "materia": "Antropología" },
-				{ "code": "21", "materia": "Economía" },
-				{ "code": "22", "materia": "Ciencia Política" },
-				{ "code": "43", "materia": "Semiología" },
-				{ "code": "89", "materia": "Derecho Privado" }
+				{ "code": "14", "subjectName": "Sociología" },
+				{ "code": "15", "subjectName": "Psicología" },
+				{ "code": "24", "subjectName": "Sociedad y Estado" },
+				{ "code": "40", "subjectName": "Pensamiento Científico" },
+				{ "code": "42", "subjectName": "Filosofía" },
+				{ "code": "16", "subjectName": "Antropología" },
+				{ "code": "21", "subjectName": "Economía" },
+				{ "code": "22", "subjectName": "Ciencia Política" },
+				{ "code": "43", "subjectName": "Semiología" },
+				{ "code": "89", "subjectName": "Derecho Privado" }
 			]
 		},
 		{
 			"career": "21 Lic. en Filosofía",
 			"subjects": [
-				{ "code": "24", "materia": "Sociedad y Estado" },
-				{ "code": "40", "materia": "Pensamiento Científico" },
-				{ "code": "42", "materia": "Filosofía" },
-				{ "code": "03", "materia": "Física" },
-				{ "code": "05", "materia": "Química" },
-				{ "code": "08", "materia": "Biología" },
-				{ "code": "14", "materia": "Sociología" },
-				{ "code": "15", "materia": "Psicología" },
-				{ "code": "16", "materia": "Antropología" },
-				{ "code": "21", "materia": "Economía" },
-				{ "code": "22", "materia": "Ciencia Política" },
-				{ "code": "43", "materia": "Semiología" },
-				{ "code": "51", "materia": "Matemática" },
-				{ "code": "61", "materia": "Matemática (9H)" },
-				{ "code": "62", "materia": "Álgebra A" },
-				{ "code": "66", "materia": "Análisis Matemático A" },
-				{ "code": "89", "materia": "Derecho Privado" }
+				{ "code": "24", "subjectName": "Sociedad y Estado" },
+				{ "code": "40", "subjectName": "Pensamiento Científico" },
+				{ "code": "42", "subjectName": "Filosofía" },
+				{ "code": "03", "subjectName": "Física" },
+				{ "code": "05", "subjectName": "Química" },
+				{ "code": "08", "subjectName": "Biología" },
+				{ "code": "14", "subjectName": "Sociología" },
+				{ "code": "15", "subjectName": "Psicología" },
+				{ "code": "16", "subjectName": "Antropología" },
+				{ "code": "21", "subjectName": "Economía" },
+				{ "code": "22", "subjectName": "Ciencia Política" },
+				{ "code": "43", "subjectName": "Semiología" },
+				{ "code": "51", "subjectName": "Matemática" },
+				{ "code": "61", "subjectName": "Matemática (9H)" },
+				{ "code": "62", "subjectName": "Álgebra A" },
+				{ "code": "66", "subjectName": "Análisis Matemático A" },
+				{ "code": "89", "subjectName": "Derecho Privado" }
 			]
 		},
 		{
 			"career": "23 Geografía",
 			"subjects": [
-				{ "code": "14", "materia": "Sociología" },
-				{ "code": "16", "materia": "Antropología" },
-				{ "code": "21", "materia": "Economía" },
-				{ "code": "24", "materia": "Sociedad y Estado" },
-				{ "code": "40", "materia": "Pensamiento Científico" },
-				{ "code": "43", "materia": "Semiología" }
+				{ "code": "14", "subjectName": "Sociología" },
+				{ "code": "16", "subjectName": "Antropología" },
+				{ "code": "21", "subjectName": "Economía" },
+				{ "code": "24", "subjectName": "Sociedad y Estado" },
+				{ "code": "40", "subjectName": "Pensamiento Científico" },
+				{ "code": "43", "subjectName": "Semiología" }
 			]
 		},
 		{
 			"career": "24 Historia",
 			"subjects": [
-				{ "code": "14", "materia": "Sociología" },
-				{ "code": "16", "materia": "Antropología" },
-				{ "code": "21", "materia": "Economía" },
-				{ "code": "24", "materia": "Sociedad y Estado" },
-				{ "code": "40", "materia": "Pensamiento Científico" },
-				{ "code": "43", "materia": "Semiología" }
+				{ "code": "14", "subjectName": "Sociología" },
+				{ "code": "16", "subjectName": "Antropología" },
+				{ "code": "21", "subjectName": "Economía" },
+				{ "code": "24", "subjectName": "Sociedad y Estado" },
+				{ "code": "40", "subjectName": "Pensamiento Científico" },
+				{ "code": "43", "subjectName": "Semiología" }
 			]
 		},
 		{
 			"career": "25 Lic. en Artes",
 			"subjects": [
-				{ "code": "24", "materia": "Sociedad y Estado" },
-				{ "code": "40", "materia": "Pensamiento Científico" },
-				{ "code": "42", "materia": "Filosofía" },
-				{ "code": "43", "materia": "Semiología" },
-				{ "code": "14", "materia": "Sociología" },
-				{ "code": "15", "materia": "Psicología" },
-				{ "code": "16", "materia": "Antropología" },
-				{ "code": "21", "materia": "Economía" },
-				{ "code": "22", "materia": "Ciencia Política" }
+				{ "code": "24", "subjectName": "Sociedad y Estado" },
+				{ "code": "40", "subjectName": "Pensamiento Científico" },
+				{ "code": "42", "subjectName": "Filosofía" },
+				{ "code": "43", "subjectName": "Semiología" },
+				{ "code": "14", "subjectName": "Sociología" },
+				{ "code": "15", "subjectName": "Psicología" },
+				{ "code": "16", "subjectName": "Antropología" },
+				{ "code": "21", "subjectName": "Economía" },
+				{ "code": "22", "subjectName": "Ciencia Política" }
 			]
 		},
 		{
 			"career": "34 Letras",
 			"subjects": [
-				{ "code": "14", "materia": "Sociología" },
-				{ "code": "21", "materia": "Economía" },
-				{ "code": "24", "materia": "Sociedad y Estado" },
-				{ "code": "40", "materia": "Pensamiento Científico" },
-				{ "code": "42", "materia": "Filosofía" },
-				{ "code": "43", "materia": "Semiología" }
+				{ "code": "14", "subjectName": "Sociología" },
+				{ "code": "21", "subjectName": "Economía" },
+				{ "code": "24", "subjectName": "Sociedad y Estado" },
+				{ "code": "40", "subjectName": "Pensamiento Científico" },
+				{ "code": "42", "subjectName": "Filosofía" },
+				{ "code": "43", "subjectName": "Semiología" }
 			]
 		},
 		{
 			"career": "82 Edición",
 			"subjects": [
-				{ "code": "24", "materia": "Sociedad y Estado" },
-				{ "code": "40", "materia": "Pensamiento Científico" }
+				{ "code": "24", "subjectName": "Sociedad y Estado" },
+				{ "code": "40", "subjectName": "Pensamiento Científico" }
 			]
 		},
 		{
 			"career": "136 Prof. de Enseñanza Media y Superior en Filosofía",
 			"subjects": [
-				{ "code": "15", "materia": "Psicología" },
-				{ "code": "24", "materia": "Sociedad y Estado" },
-				{ "code": "40", "materia": "Pensamiento Científico" },
-				{ "code": "42", "materia": "Filosofía" },
-				{ "code": "03", "materia": "Física" },
-				{ "code": "05", "materia": "Química" },
-				{ "code": "08", "materia": "Biología" },
-				{ "code": "14", "materia": "Sociología" },
-				{ "code": "16", "materia": "Antropología" },
-				{ "code": "21", "materia": "Economía" },
-				{ "code": "22", "materia": "Ciencia Política" },
-				{ "code": "43", "materia": "Semiología" },
-				{ "code": "51", "materia": "Matemática" },
-				{ "code": "61", "materia": "Matemática (9H)" },
-				{ "code": "62", "materia": "Álgebra A" },
-				{ "code": "66", "materia": "Análisis Matemático A" },
-				{ "code": "89", "materia": "Derecho Privado" }
+				{ "code": "15", "subjectName": "Psicología" },
+				{ "code": "24", "subjectName": "Sociedad y Estado" },
+				{ "code": "40", "subjectName": "Pensamiento Científico" },
+				{ "code": "42", "subjectName": "Filosofía" },
+				{ "code": "03", "subjectName": "Física" },
+				{ "code": "05", "subjectName": "Química" },
+				{ "code": "08", "subjectName": "Biología" },
+				{ "code": "14", "subjectName": "Sociología" },
+				{ "code": "16", "subjectName": "Antropología" },
+				{ "code": "21", "subjectName": "Economía" },
+				{ "code": "22", "subjectName": "Ciencia Política" },
+				{ "code": "43", "subjectName": "Semiología" },
+				{ "code": "51", "subjectName": "Matemática" },
+				{ "code": "61", "subjectName": "Matemática (9H)" },
+				{ "code": "62", "subjectName": "Álgebra A" },
+				{ "code": "66", "subjectName": "Análisis Matemático A" },
+				{ "code": "89", "subjectName": "Derecho Privado" }
 			]
 		},
 		{
 			"career": "141 Prof. de Enseñanza Secundaria y Superior en Cs. de la Educación",
 			"subjects": [
-				{ "code": "14", "materia": "Sociología" },
-				{ "code": "15", "materia": "Psicología" },
-				{ "code": "24", "materia": "Sociedad y Estado" },
-				{ "code": "40", "materia": "Pensamiento Científico" },
-				{ "code": "42", "materia": "Filosofía" },
-				{ "code": "16", "materia": "Antropología" },
-				{ "code": "21", "materia": "Economía" },
-				{ "code": "22", "materia": "Ciencia Política" },
-				{ "code": "43", "materia": "Semiología" },
-				{ "code": "89", "materia": "Derecho Privado" }
+				{ "code": "14", "subjectName": "Sociología" },
+				{ "code": "15", "subjectName": "Psicología" },
+				{ "code": "24", "subjectName": "Sociedad y Estado" },
+				{ "code": "40", "subjectName": "Pensamiento Científico" },
+				{ "code": "42", "subjectName": "Filosofía" },
+				{ "code": "16", "subjectName": "Antropología" },
+				{ "code": "21", "subjectName": "Economía" },
+				{ "code": "22", "subjectName": "Ciencia Política" },
+				{ "code": "43", "subjectName": "Semiología" },
+				{ "code": "89", "subjectName": "Derecho Privado" }
 			]
 		},
 		{
 			"career": "144 Profesorado en Enseñanza Secundaria y Superior en Artes",
 			"subjects": [
-				{ "code": "24", "materia": "Sociedad y Estado" },
-				{ "code": "40", "materia": "Pensamiento Científico" },
-				{ "code": "42", "materia": "Filosofía" },
-				{ "code": "43", "materia": "Semiología" },
-				{ "code": "14", "materia": "Sociología" },
-				{ "code": "15", "materia": "Psicología" },
-				{ "code": "16", "materia": "Antropología" },
-				{ "code": "21", "materia": "Economía" },
-				{ "code": "22", "materia": "Ciencia Política" }
+				{ "code": "24", "subjectName": "Sociedad y Estado" },
+				{ "code": "40", "subjectName": "Pensamiento Científico" },
+				{ "code": "42", "subjectName": "Filosofía" },
+				{ "code": "43", "subjectName": "Semiología" },
+				{ "code": "14", "subjectName": "Sociología" },
+				{ "code": "15", "subjectName": "Psicología" },
+				{ "code": "16", "subjectName": "Antropología" },
+				{ "code": "21", "subjectName": "Economía" },
+				{ "code": "22", "subjectName": "Ciencia Política" }
 			]
 		},
 		{
 			"career": "148 Profesorado de Enseñanza Secundaria y Superior en Geografía",
 			"subjects": [
-				{ "code": "15", "materia": "Psicología" },
-				{ "code": "21", "materia": "Economía" },
-				{ "code": "24", "materia": "Sociedad y Estado" },
-				{ "code": "40", "materia": "Pensamiento Científico" },
-				{ "code": "43", "materia": "Semiología" },
-				{ "code": "14", "materia": "Sociología" },
-				{ "code": "16", "materia": "Antropología" }
+				{ "code": "15", "subjectName": "Psicología" },
+				{ "code": "21", "subjectName": "Economía" },
+				{ "code": "24", "subjectName": "Sociedad y Estado" },
+				{ "code": "40", "subjectName": "Pensamiento Científico" },
+				{ "code": "43", "subjectName": "Semiología" },
+				{ "code": "14", "subjectName": "Sociología" },
+				{ "code": "16", "subjectName": "Antropología" }
 			]
 		}
 	]

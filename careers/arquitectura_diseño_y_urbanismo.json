@@ -4,85 +4,85 @@
 		{
 			"career": "7 Arquitectura",
 			"subjects": [
-				{ "code": "24", "materia": "Sociedad y Estado" },
-				{ "code": "40", "materia": "Pensamiento Científico" },
-				{ "code": "42", "materia": "Filosofía" },
-				{ "code": "46", "materia": "Proyectual I" },
-				{ "code": "47", "materia": "Proyectual II" },
-				{ "code": "48", "materia": "Taller de Dibujo" },
-				{ "code": "51", "materia": "Matemática" }
+				{ "code": "24", "subjectName": "Sociedad y Estado" },
+				{ "code": "40", "subjectName": "Pensamiento Científico" },
+				{ "code": "42", "subjectName": "Filosofía" },
+				{ "code": "46", "subjectName": "Proyectual I" },
+				{ "code": "47", "subjectName": "Proyectual II" },
+				{ "code": "48", "subjectName": "Taller de Dibujo" },
+				{ "code": "51", "subjectName": "Matemática" }
 			]
 		},
 		{
 			"career": "50 Diseño Gráfico",
 			"subjects": [
-				{ "code": "24", "materia": "Sociedad y Estado" },
-				{ "code": "40", "materia": "Pensamiento Científico" },
-				{ "code": "43", "materia": "Semiología" },
-				{ "code": "46", "materia": "Proyectual I" },
-				{ "code": "47", "materia": "Proyectual II" },
-				{ "code": "48", "materia": "Taller de Dibujo" },
-				{ "code": "51", "materia": "Matemática" }
+				{ "code": "24", "subjectName": "Sociedad y Estado" },
+				{ "code": "40", "subjectName": "Pensamiento Científico" },
+				{ "code": "43", "subjectName": "Semiología" },
+				{ "code": "46", "subjectName": "Proyectual I" },
+				{ "code": "47", "subjectName": "Proyectual II" },
+				{ "code": "48", "subjectName": "Taller de Dibujo" },
+				{ "code": "51", "subjectName": "Matemática" }
 			]
 		},
 		{
 			"career": "51 Diseño Industrial",
 			"subjects": [
-				{ "code": "24", "materia": "Sociedad y Estado" },
-				{ "code": "40", "materia": "Pensamiento Científico" },
-				{ "code": "43", "materia": "Semiología" },
-				{ "code": "46", "materia": "Proyectual I" },
-				{ "code": "47", "materia": "Proyectual II" },
-				{ "code": "48", "materia": "Taller de Dibujo" },
-				{ "code": "51", "materia": "Matemática" }
+				{ "code": "24", "subjectName": "Sociedad y Estado" },
+				{ "code": "40", "subjectName": "Pensamiento Científico" },
+				{ "code": "43", "subjectName": "Semiología" },
+				{ "code": "46", "subjectName": "Proyectual I" },
+				{ "code": "47", "subjectName": "Proyectual II" },
+				{ "code": "48", "subjectName": "Taller de Dibujo" },
+				{ "code": "51", "subjectName": "Matemática" }
 			]
 		},
 		{
 			"career": "76 Diseño de Imagen y Sonido",
 			"subjects": [
-				{ "code": "24", "materia": "Sociedad y Estado" },
-				{ "code": "40", "materia": "Pensamiento Científico" },
-				{ "code": "43", "materia": "Semiología" },
-				{ "code": "46", "materia": "Proyectual I" },
-				{ "code": "47", "materia": "Proyectual II" },
-				{ "code": "48", "materia": "Taller de Dibujo" },
-				{ "code": "51", "materia": "Matemática" }
+				{ "code": "24", "subjectName": "Sociedad y Estado" },
+				{ "code": "40", "subjectName": "Pensamiento Científico" },
+				{ "code": "43", "subjectName": "Semiología" },
+				{ "code": "46", "subjectName": "Proyectual I" },
+				{ "code": "47", "subjectName": "Proyectual II" },
+				{ "code": "48", "subjectName": "Taller de Dibujo" },
+				{ "code": "51", "subjectName": "Matemática" }
 			]
 		},
 		{
 			"career": "83 Lic. en Planificación y Diseño del Paisaje",
 			"subjects": [
-				{ "code": "08", "materia": "Biología" },
-				{ "code": "24", "materia": "Sociedad y Estado" },
-				{ "code": "40", "materia": "Pensamiento Científico" },
-				{ "code": "46", "materia": "Proyectual I" },
-				{ "code": "47", "materia": "Proyectual II" },
-				{ "code": "48", "materia": "Taller de Dibujo" },
-				{ "code": "51", "materia": "Matemática" }
+				{ "code": "08", "subjectName": "Biología" },
+				{ "code": "24", "subjectName": "Sociedad y Estado" },
+				{ "code": "40", "subjectName": "Pensamiento Científico" },
+				{ "code": "46", "subjectName": "Proyectual I" },
+				{ "code": "47", "subjectName": "Proyectual II" },
+				{ "code": "48", "subjectName": "Taller de Dibujo" },
+				{ "code": "51", "subjectName": "Matemática" }
 			]
 		},
 		{
 			"career": "138 Diseño de Indumentaria",
 			"subjects": [
-				{ "code": "24", "materia": "Sociedad y Estado" },
-				{ "code": "40", "materia": "Pensamiento Científico" },
-				{ "code": "43", "materia": "Semiología" },
-				{ "code": "46", "materia": "Proyectual I" },
-				{ "code": "47", "materia": "Proyectual II" },
-				{ "code": "48", "materia": "Taller de Dibujo" },
-				{ "code": "51", "materia": "Matemática" }
+				{ "code": "24", "subjectName": "Sociedad y Estado" },
+				{ "code": "40", "subjectName": "Pensamiento Científico" },
+				{ "code": "43", "subjectName": "Semiología" },
+				{ "code": "46", "subjectName": "Proyectual I" },
+				{ "code": "47", "subjectName": "Proyectual II" },
+				{ "code": "48", "subjectName": "Taller de Dibujo" },
+				{ "code": "51", "subjectName": "Matemática" }
 			]
 		},
 		{
 			"career": "139 Diseño Textil",
 			"subjects": [
-				{ "code": "24", "materia": "Sociedad y Estado" },
-				{ "code": "40", "materia": "Pensamiento Científico" },
-				{ "code": "43", "materia": "Semiología" },
-				{ "code": "46", "materia": "Proyectual I" },
-				{ "code": "47", "materia": "Proyectual II" },
-				{ "code": "48", "materia": "Taller de Dibujo" },
-				{ "code": "51", "materia": "Matemática" }
+				{ "code": "24", "subjectName": "Sociedad y Estado" },
+				{ "code": "40", "subjectName": "Pensamiento Científico" },
+				{ "code": "43", "subjectName": "Semiología" },
+				{ "code": "46", "subjectName": "Proyectual I" },
+				{ "code": "47", "subjectName": "Proyectual II" },
+				{ "code": "48", "subjectName": "Taller de Dibujo" },
+				{ "code": "51", "subjectName": "Matemática" }
 			]
 		}
 	]

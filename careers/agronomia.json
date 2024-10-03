@@ -4,77 +4,77 @@
 		{
 			"career": "4 Agronomía",
 			"subjects": [
-				{ "code": "05", "materia": "Química" },
-				{ "code": "08", "materia": "Biología" },
-				{ "code": "24", "materia": "Sociedad y Estado" },
-				{ "code": "40", "materia": "Pensamiento Científico" },
-				{ "code": "53", "materia": "Biofísica" },
-				{ "code": "61", "materia": "Matemática (9H)" }
+				{ "code": "05", "subjectName": "Química" },
+				{ "code": "08", "subjectName": "Biología" },
+				{ "code": "24", "subjectName": "Sociedad y Estado" },
+				{ "code": "40", "subjectName": "Pensamiento Científico" },
+				{ "code": "53", "subjectName": "Biofísica" },
+				{ "code": "61", "subjectName": "Matemática (9H)" }
 			]
 		},
 		{
 			"career": "91 Lic. en Economía y Administración Agrarias",
 			"subjects": [
-				{ "code": "14", "materia": "Sociología" },
-				{ "code": "21", "materia": "Economía" },
-				{ "code": "71", "materia": "Álgebra" },
-				{ "code": "72", "materia": "Análisis Matemático" },
-				{ "code": "73", "materia": "Metodología de las Cs. Sociales" },
-				{ "code": "74", "materia": "Historia Econ. y Social Gral." }
+				{ "code": "14", "subjectName": "Sociología" },
+				{ "code": "21", "subjectName": "Economía" },
+				{ "code": "71", "subjectName": "Álgebra" },
+				{ "code": "72", "subjectName": "Análisis Matemático" },
+				{ "code": "73", "subjectName": "Metodología de las Cs. Sociales" },
+				{ "code": "74", "subjectName": "Historia Econ. y Social Gral." }
 			]
 		},
 		{
 			"career": "97 Lic. en Cs. Ambientales ",
 			"subjects": [
-				{ "code": "05", "materia": "Química" },
-				{ "code": "08", "materia": "Biología" },
-				{ "code": "24", "materia": "Sociedad y Estado" },
-				{ "code": "40", "materia": "Pensamiento Científico" },
-				{ "code": "53", "materia": "Biofísica" },
-				{ "code": "61", "materia": "Matemática (9H)" }
+				{ "code": "05", "subjectName": "Química" },
+				{ "code": "08", "subjectName": "Biología" },
+				{ "code": "24", "subjectName": "Sociedad y Estado" },
+				{ "code": "40", "subjectName": "Pensamiento Científico" },
+				{ "code": "53", "subjectName": "Biofísica" },
+				{ "code": "61", "subjectName": "Matemática (9H)" }
 			]
 		},
 		{
 			"career": "147 Prof. de Enseñanza Sec. y Superior en Cs. Ambientales",
 			"subjects": [
-				{ "code": "05", "materia": "Química" },
-				{ "code": "08", "materia": "Biología" },
-				{ "code": "24", "materia": "Sociedad y Estado" },
-				{ "code": "40", "materia": "Pensamiento Científico" },
-				{ "code": "53", "materia": "Biofísica" },
-				{ "code": "61", "materia": "Matemática (9H)" }
+				{ "code": "05", "subjectName": "Química" },
+				{ "code": "08", "subjectName": "Biología" },
+				{ "code": "24", "subjectName": "Sociedad y Estado" },
+				{ "code": "40", "subjectName": "Pensamiento Científico" },
+				{ "code": "53", "subjectName": "Biofísica" },
+				{ "code": "61", "subjectName": "Matemática (9H)" }
 			]
 		},
 		{
 			"career": "163 TEC. UNIV. EN TURISMO RURAL",
 			"subjects": [
-				{ "code": "21", "materia": "Economía" },
-				{ "code": "40", "materia": "Pensamiento Científico" },
-				{ "code": "70", "materia": "Trabajo y Sociedad" }
+				{ "code": "21", "subjectName": "Economía" },
+				{ "code": "40", "subjectName": "Pensamiento Científico" },
+				{ "code": "70", "subjectName": "Trabajo y Sociedad" }
 			]
 		},
 		{
 			"career": "179 TEC. UNIV. EN PRODUCCIÓN FLORIHORTICOLA",
 			"subjects": [
-				{ "code": "05", "materia": "Química" },
-				{ "code": "08", "materia": "Biología" },
-				{ "code": "70", "materia": "Trabajo y Sociedad" }
+				{ "code": "05", "subjectName": "Química" },
+				{ "code": "08", "subjectName": "Biología" },
+				{ "code": "70", "subjectName": "Trabajo y Sociedad" }
 			]
 		},
 		{
 			"career": "180 TEC. UNIV. JARDINERÍA",
 			"subjects": [
-				{ "code": "05", "materia": "Química" },
-				{ "code": "08", "materia": "Biología" },
-				{ "code": "70", "materia": "Trabajo y Sociedad" }
+				{ "code": "05", "subjectName": "Química" },
+				{ "code": "08", "subjectName": "Biología" },
+				{ "code": "70", "subjectName": "Trabajo y Sociedad" }
 			]
 		},
 		{
 			"career": "196 TEC. UNIV. EN PRODUCCIÓN VEGETAL ORGÁNICA",
 			"subjects": [
-				{ "code": "05", "materia": "Química" },
-				{ "code": "08", "materia": "Biología" },
-				{ "code": "70", "materia": "Trabajo y Sociedad" }
+				{ "code": "05", "subjectName": "Química" },
+				{ "code": "08", "subjectName": "Biología" },
+				{ "code": "70", "subjectName": "Trabajo y Sociedad" }
 			]
 		}
 	]

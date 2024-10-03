@@ -4,56 +4,56 @@
 		{
 			"career": "37 Lic. en Relaciones del Trabajo",
 			"subjects": [
-				{ "code": "14", "materia": "Sociología" },
-				{ "code": "15", "materia": "Psicología" },
-				{ "code": "21", "materia": "Economía" },
-				{ "code": "22", "materia": "Ciencia Política" },
-				{ "code": "24", "materia": "Sociedad y Estado" },
-				{ "code": "40", "materia": "Pensamiento Científico" }
+				{ "code": "14", "subjectName": "Sociología" },
+				{ "code": "15", "subjectName": "Psicología" },
+				{ "code": "21", "subjectName": "Economía" },
+				{ "code": "22", "subjectName": "Ciencia Política" },
+				{ "code": "24", "subjectName": "Sociedad y Estado" },
+				{ "code": "40", "subjectName": "Pensamiento Científico" }
 			]
 		},
 		{
 			"career": "38 Lic. en Trabajo Social",
 			"subjects": [
-				{ "code": "14", "materia": "Sociología" },
-				{ "code": "15", "materia": "Psicología" },
-				{ "code": "16", "materia": "Antropología" },
-				{ "code": "21", "materia": "Economía" },
-				{ "code": "24", "materia": "Sociedad y Estado" },
-				{ "code": "40", "materia": "Pensamiento Científico" }
+				{ "code": "14", "subjectName": "Sociología" },
+				{ "code": "15", "subjectName": "Psicología" },
+				{ "code": "16", "subjectName": "Antropología" },
+				{ "code": "21", "subjectName": "Economía" },
+				{ "code": "24", "subjectName": "Sociedad y Estado" },
+				{ "code": "40", "subjectName": "Pensamiento Científico" }
 			]
 		},
 		{
 			"career": "43 Sociología",
 			"subjects": [
-				{ "code": "14", "materia": "Sociología" },
-				{ "code": "16", "materia": "Antropología" },
-				{ "code": "21", "materia": "Economía" },
-				{ "code": "22", "materia": "Ciencia Política" },
-				{ "code": "24", "materia": "Sociedad y Estado" },
-				{ "code": "40", "materia": "Pensamiento Científico" }
+				{ "code": "14", "subjectName": "Sociología" },
+				{ "code": "16", "subjectName": "Antropología" },
+				{ "code": "21", "subjectName": "Economía" },
+				{ "code": "22", "subjectName": "Ciencia Política" },
+				{ "code": "24", "subjectName": "Sociedad y Estado" },
+				{ "code": "40", "subjectName": "Pensamiento Científico" }
 			]
 		},
 		{
 			"career": "52 Lic. en Ciencia Política",
 			"subjects": [
-				{ "code": "14", "materia": "Sociología" },
-				{ "code": "16", "materia": "Antropología" },
-				{ "code": "21", "materia": "Economía" },
-				{ "code": "22", "materia": "Ciencia Política" },
-				{ "code": "24", "materia": "Sociedad y Estado" },
-				{ "code": "40", "materia": "Pensamiento Científico" }
+				{ "code": "14", "subjectName": "Sociología" },
+				{ "code": "16", "subjectName": "Antropología" },
+				{ "code": "21", "subjectName": "Economía" },
+				{ "code": "22", "subjectName": "Ciencia Política" },
+				{ "code": "24", "subjectName": "Sociedad y Estado" },
+				{ "code": "40", "subjectName": "Pensamiento Científico" }
 			]
 		},
 		{
 			"career": "57 Lic. en Cs. de la Comunicación Social",
 			"subjects": [
-				{ "code": "14", "materia": "Sociología" },
-				{ "code": "15", "materia": "Psicología" },
-				{ "code": "21", "materia": "Economía" },
-				{ "code": "24", "materia": "Sociedad y Estado" },
-				{ "code": "40", "materia": "Pensamiento Científico" },
-				{ "code": "43", "materia": "Semiología" }
+				{ "code": "14", "subjectName": "Sociología" },
+				{ "code": "15", "subjectName": "Psicología" },
+				{ "code": "21", "subjectName": "Economía" },
+				{ "code": "24", "subjectName": "Sociedad y Estado" },
+				{ "code": "40", "subjectName": "Pensamiento Científico" },
+				{ "code": "43", "subjectName": "Semiología" }
 			]
 		}
 	]

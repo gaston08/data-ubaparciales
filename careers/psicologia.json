@@ -4,45 +4,45 @@
 		{
 			"career": "42 Lic. en Psicología",
 			"subjects": [
-				{ "code": "08", "materia": "Biología" },
-				{ "code": "15", "materia": "Psicología" },
-				{ "code": "24", "materia": "Sociedad y Estado" },
-				{ "code": "40", "materia": "Pensamiento Científico" },
-				{ "code": "43", "materia": "Semiología" },
-				{ "code": "51", "materia": "Matemática" }
+				{ "code": "08", "subjectName": "Biología" },
+				{ "code": "15", "subjectName": "Psicología" },
+				{ "code": "24", "subjectName": "Sociedad y Estado" },
+				{ "code": "40", "subjectName": "Pensamiento Científico" },
+				{ "code": "43", "subjectName": "Semiología" },
+				{ "code": "51", "subjectName": "Matemática" }
 			]
 		},
 		{
 			"career": "88 Terapia Ocupacional",
 			"subjects": [
-				{ "code": "08", "materia": "Biología" },
-				{ "code": "14", "materia": "Sociología" },
-				{ "code": "15", "materia": "Psicología" },
-				{ "code": "24", "materia": "Sociedad y Estado" },
-				{ "code": "40", "materia": "Pensamiento Científico" },
-				{ "code": "51", "materia": "Matemática" }
+				{ "code": "08", "subjectName": "Biología" },
+				{ "code": "14", "subjectName": "Sociología" },
+				{ "code": "15", "subjectName": "Psicología" },
+				{ "code": "24", "subjectName": "Sociedad y Estado" },
+				{ "code": "40", "subjectName": "Pensamiento Científico" },
+				{ "code": "51", "subjectName": "Matemática" }
 			]
 		},
 		{
 			"career": "98 Lic. en Musicoterapia",
 			"subjects": [
-				{ "code": "08", "materia": "Biología" },
-				{ "code": "15", "materia": "Psicología" },
-				{ "code": "24", "materia": "Sociedad y Estado" },
-				{ "code": "40", "materia": "Pensamiento Científico" },
-				{ "code": "43", "materia": "Semiología" },
-				{ "code": "51", "materia": "Matemática" }
+				{ "code": "08", "subjectName": "Biología" },
+				{ "code": "15", "subjectName": "Psicología" },
+				{ "code": "24", "subjectName": "Sociedad y Estado" },
+				{ "code": "40", "subjectName": "Pensamiento Científico" },
+				{ "code": "43", "subjectName": "Semiología" },
+				{ "code": "51", "subjectName": "Matemática" }
 			]
 		},
 		{
 			"career": "142 Prof. de Enseñanza Media y Superior en Psicología",
 			"subjects": [
-				{ "code": "08", "materia": "Biología" },
-				{ "code": "15", "materia": "Psicología" },
-				{ "code": "24", "materia": "Sociedad y Estado" },
-				{ "code": "40", "materia": "Pensamiento Científico" },
-				{ "code": "43", "materia": "Semiología" },
-				{ "code": "51", "materia": "Matemática" }
+				{ "code": "08", "subjectName": "Biología" },
+				{ "code": "15", "subjectName": "Psicología" },
+				{ "code": "24", "subjectName": "Sociedad y Estado" },
+				{ "code": "40", "subjectName": "Pensamiento Científico" },
+				{ "code": "43", "subjectName": "Semiología" },
+				{ "code": "51", "subjectName": "Matemática" }
 			]
 		}
 	]

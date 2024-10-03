@@ -4,140 +4,140 @@
 		{
 			"career": "22 Lic. en Fonoaudiología",
 			"subjects": [
-				{ "code": "05", "materia": "Química" },
-				{ "code": "24", "materia": "Sociedad y Estado" },
-				{ "code": "40", "materia": "Pensamiento Científico" },
-				{ "code": "51", "materia": "Matemática" },
-				{ "code": "53", "materia": "Biofísica" },
-				{ "code": "91", "materia": "Biología Celular B" }
+				{ "code": "05", "subjectName": "Química" },
+				{ "code": "24", "subjectName": "Sociedad y Estado" },
+				{ "code": "40", "subjectName": "Pensamiento Científico" },
+				{ "code": "51", "subjectName": "Matemática" },
+				{ "code": "53", "subjectName": "Biofísica" },
+				{ "code": "91", "subjectName": "Biología Celular B" }
 			]
 		},
 		{
 			"career": "33 Lic. en Kinesiología y Fisiatría",
 			"subjects": [
-				{ "code": "05", "materia": "Química" },
-				{ "code": "24", "materia": "Sociedad y Estado" },
-				{ "code": "40", "materia": "Pensamiento Científico" },
-				{ "code": "51", "materia": "Matemática" },
-				{ "code": "53", "materia": "Biofísica" },
-				{ "code": "91", "materia": "Biología Celular B" }
+				{ "code": "05", "subjectName": "Química" },
+				{ "code": "24", "subjectName": "Sociedad y Estado" },
+				{ "code": "40", "subjectName": "Pensamiento Científico" },
+				{ "code": "51", "subjectName": "Matemática" },
+				{ "code": "53", "subjectName": "Biofísica" },
+				{ "code": "91", "subjectName": "Biología Celular B" }
 			]
 		},
 		{
 			"career": "39 Medicina",
 			"subjects": [
-				{ "code": "05", "materia": "Química" },
-				{ "code": "24", "materia": "Sociedad y Estado" },
-				{ "code": "40", "materia": "Pensamiento Científico" },
-				{ "code": "51", "materia": "Matemática" },
-				{ "code": "53", "materia": "Biofísica" },
-				{ "code": "91", "materia": "Biología Celular B" }
+				{ "code": "05", "subjectName": "Química" },
+				{ "code": "24", "subjectName": "Sociedad y Estado" },
+				{ "code": "40", "subjectName": "Pensamiento Científico" },
+				{ "code": "51", "subjectName": "Matemática" },
+				{ "code": "53", "subjectName": "Biofísica" },
+				{ "code": "91", "subjectName": "Biología Celular B" }
 			]
 		},
 		{
 			"career": "40 Lic. en Nutrición",
 			"subjects": [
-				{ "code": "05", "materia": "Química" },
-				{ "code": "24", "materia": "Sociedad y Estado" },
-				{ "code": "40", "materia": "Pensamiento Científico" },
-				{ "code": "51", "materia": "Matemática" },
-				{ "code": "53", "materia": "Biofísica" },
-				{ "code": "91", "materia": "Biología Celular B" }
+				{ "code": "05", "subjectName": "Química" },
+				{ "code": "24", "subjectName": "Sociedad y Estado" },
+				{ "code": "40", "subjectName": "Pensamiento Científico" },
+				{ "code": "51", "subjectName": "Matemática" },
+				{ "code": "53", "subjectName": "Biofísica" },
+				{ "code": "91", "subjectName": "Biología Celular B" }
 			]
 		},
 		{
 			"career": "46 Lic. en Obstetricia",
 			"subjects": [
-				{ "code": "05", "materia": "Química" },
-				{ "code": "24", "materia": "Sociedad y Estado" },
-				{ "code": "40", "materia": "Pensamiento Científico" },
-				{ "code": "51", "materia": "Matemática" },
-				{ "code": "53", "materia": "Biofísica" },
-				{ "code": "91", "materia": "Biología Celular B" }
+				{ "code": "05", "subjectName": "Química" },
+				{ "code": "24", "subjectName": "Sociedad y Estado" },
+				{ "code": "40", "subjectName": "Pensamiento Científico" },
+				{ "code": "51", "subjectName": "Matemática" },
+				{ "code": "53", "subjectName": "Biofísica" },
+				{ "code": "91", "subjectName": "Biología Celular B" }
 			]
 		},
 		{
 			"career": "47 Enfermero Universitario",
 			"subjects": [
-				{ "code": "24", "materia": "Sociedad y Estado" },
-				{ "code": "40", "materia": "Pensamiento Científico" }
+				{ "code": "24", "subjectName": "Sociedad y Estado" },
+				{ "code": "40", "subjectName": "Pensamiento Científico" }
 			]
 		},
 		{
 			"career": "60 Tec. Univ. en Podología",
 			"subjects": [
-				{ "code": "40", "materia": "Pensamiento Científico" },
-				{ "code": "42", "materia": "Filosofía" },
-				{ "code": "70", "materia": "Trabajo y Sociedad" }
+				{ "code": "40", "subjectName": "Pensamiento Científico" },
+				{ "code": "42", "subjectName": "Filosofía" },
+				{ "code": "70", "subjectName": "Trabajo y Sociedad" }
 			]
 		},
 		{
 			"career": "65 Téc. Radiólogo Universitario",
 			"subjects": [
-				{ "code": "05", "materia": "Química" },
-				{ "code": "24", "materia": "Sociedad y Estado" },
-				{ "code": "40", "materia": "Pensamiento Científico" }
+				{ "code": "05", "subjectName": "Química" },
+				{ "code": "24", "subjectName": "Sociedad y Estado" },
+				{ "code": "40", "subjectName": "Pensamiento Científico" }
 			]
 		},
 		{
 			"career": "66 Lic. en Producción de Bioimágenes",
 			"subjects": [
-				{ "code": "05", "materia": "Química" },
-				{ "code": "24", "materia": "Sociedad y Estado" },
-				{ "code": "40", "materia": "Pensamiento Científico" },
-				{ "code": "51", "materia": "Matemática" },
-				{ "code": "53", "materia": "Biofísica" },
-				{ "code": "91", "materia": "Biología Celular B" }
+				{ "code": "05", "subjectName": "Química" },
+				{ "code": "24", "subjectName": "Sociedad y Estado" },
+				{ "code": "40", "subjectName": "Pensamiento Científico" },
+				{ "code": "51", "subjectName": "Matemática" },
+				{ "code": "53", "subjectName": "Biofísica" },
+				{ "code": "91", "subjectName": "Biología Celular B" }
 			]
 		},
 		{
 			"career": "70 Tec. Univ. en Hemoterapia e Inmunohematología",
 			"subjects": [
-				{ "code": "05", "materia": "Química" },
-				{ "code": "70", "materia": "Trabajo y Sociedad" },
-				{ "code": "91", "materia": "Biología Celular B" }
+				{ "code": "05", "subjectName": "Química" },
+				{ "code": "70", "subjectName": "Trabajo y Sociedad" },
+				{ "code": "91", "subjectName": "Biología Celular B" }
 			]
 		},
 		{
 			"career": "81 Lic. en Enfermería",
 			"subjects": [
-				{ "code": "24", "materia": "Sociedad y Estado" },
-				{ "code": "40", "materia": "Pensamiento Científico" },
-				{ "code": "05", "materia": "Química" },
-				{ "code": "14", "materia": "Sociología" },
-				{ "code": "15", "materia": "Psicología" },
-				{ "code": "16", "materia": "Antropología" },
-				{ "code": "21", "materia": "Economía" },
-				{ "code": "22", "materia": "Ciencia Política" },
-				{ "code": "42", "materia": "Filosofía" },
-				{ "code": "43", "materia": "Semiología" },
-				{ "code": "51", "materia": "Matemática" },
-				{ "code": "53", "materia": "Biofísica" },
-				{ "code": "91", "materia": "Biología Celular B" }
+				{ "code": "24", "subjectName": "Sociedad y Estado" },
+				{ "code": "40", "subjectName": "Pensamiento Científico" },
+				{ "code": "05", "subjectName": "Química" },
+				{ "code": "14", "subjectName": "Sociología" },
+				{ "code": "15", "subjectName": "Psicología" },
+				{ "code": "16", "subjectName": "Antropología" },
+				{ "code": "21", "subjectName": "Economía" },
+				{ "code": "22", "subjectName": "Ciencia Política" },
+				{ "code": "42", "subjectName": "Filosofía" },
+				{ "code": "43", "subjectName": "Semiología" },
+				{ "code": "51", "subjectName": "Matemática" },
+				{ "code": "53", "subjectName": "Biofísica" },
+				{ "code": "91", "subjectName": "Biología Celular B" }
 			]
 		},
 		{
 			"career": "131 Tec. Univ. en Cosmetología Facial y Corporal",
 			"subjects": [
-				{ "code": "05", "materia": "Química" },
-				{ "code": "53", "materia": "Biofísica" },
-				{ "code": "70", "materia": "Trabajo y Sociedad" }
+				{ "code": "05", "subjectName": "Química" },
+				{ "code": "53", "subjectName": "Biofísica" },
+				{ "code": "70", "subjectName": "Trabajo y Sociedad" }
 			]
 		},
 		{
 			"career": "132 Tec. Univ. en Instrumentación Quirúrgica",
 			"subjects": [
-				{ "code": "05", "materia": "Química" },
-				{ "code": "53", "materia": "Biofísica" },
-				{ "code": "70", "materia": "Trabajo y Sociedad" }
+				{ "code": "05", "subjectName": "Química" },
+				{ "code": "53", "subjectName": "Biofísica" },
+				{ "code": "70", "subjectName": "Trabajo y Sociedad" }
 			]
 		},
 		{
 			"career": "133 Tec. Univ. en Prácticas Cardiológicas",
 			"subjects": [
-				{ "code": "53", "materia": "Biofísica" },
-				{ "code": "70", "materia": "Trabajo y Sociedad" },
-				{ "code": "91", "materia": "Biología Celular B" }
+				{ "code": "53", "subjectName": "Biofísica" },
+				{ "code": "70", "subjectName": "Trabajo y Sociedad" },
+				{ "code": "91", "subjectName": "Biología Celular B" }
 			]
 		}
 	]

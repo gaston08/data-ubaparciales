@@ -55,3 +55,13 @@ export const faculties = [
 	"Facultad de Odontología",
 	"Facultad de Psicología",
 ];
+
+export interface careerInterface {
+	faculty: string;
+	careers: [
+		{
+			career: string;
+			subjects: [{ code: string; subjectName: string }];
+		},
+	];
+}

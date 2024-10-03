@@ -4,67 +4,67 @@
 		{
 			"career": "2 Actuario (Administración)",
 			"subjects": [
-				{ "code": "14", "materia": "Sociología" },
-				{ "code": "21", "materia": "Economía" },
-				{ "code": "71", "materia": "Álgebra" },
-				{ "code": "72", "materia": "Análisis Matemático" },
-				{ "code": "73", "materia": "Metodología de las Cs. Sociales" },
-				{ "code": "74", "materia": "Historia Econ. y Social Gral." }
+				{ "code": "14", "subjectName": "Sociología" },
+				{ "code": "21", "subjectName": "Economía" },
+				{ "code": "71", "subjectName": "Álgebra" },
+				{ "code": "72", "subjectName": "Análisis Matemático" },
+				{ "code": "73", "subjectName": "Metodología de las Cs. Sociales" },
+				{ "code": "74", "subjectName": "Historia Econ. y Social Gral." }
 			]
 		},
 		{
 			"career": "19 Contador Público",
 			"subjects": [
-				{ "code": "14", "materia": "Sociología" },
-				{ "code": "21", "materia": "Economía" },
-				{ "code": "71", "materia": "Álgebra" },
-				{ "code": "72", "materia": "Análisis Matemático" },
-				{ "code": "73", "materia": "Metodología de las Cs. Sociales" },
-				{ "code": "74", "materia": "Historia Econ. y Social Gral." }
+				{ "code": "14", "subjectName": "Sociología" },
+				{ "code": "21", "subjectName": "Economía" },
+				{ "code": "71", "subjectName": "Álgebra" },
+				{ "code": "72", "subjectName": "Análisis Matemático" },
+				{ "code": "73", "subjectName": "Metodología de las Cs. Sociales" },
+				{ "code": "74", "subjectName": "Historia Econ. y Social Gral." }
 			]
 		},
 		{
 			"career": "35 Lic. en Administración",
 			"subjects": [
-				{ "code": "14", "materia": "Sociología" },
-				{ "code": "21", "materia": "Economía" },
-				{ "code": "71", "materia": "Álgebra" },
-				{ "code": "72", "materia": "Análisis Matemático" },
-				{ "code": "73", "materia": "Metodología de las Cs. Sociales" },
-				{ "code": "74", "materia": "Historia Econ. y Social Gral." }
+				{ "code": "14", "subjectName": "Sociología" },
+				{ "code": "21", "subjectName": "Economía" },
+				{ "code": "71", "subjectName": "Álgebra" },
+				{ "code": "72", "subjectName": "Análisis Matemático" },
+				{ "code": "73", "subjectName": "Metodología de las Cs. Sociales" },
+				{ "code": "74", "subjectName": "Historia Econ. y Social Gral." }
 			]
 		},
 		{
 			"career": "36 Lic. en Economía",
 			"subjects": [
-				{ "code": "14", "materia": "Sociología" },
-				{ "code": "21", "materia": "Economía" },
-				{ "code": "71", "materia": "Álgebra" },
-				{ "code": "72", "materia": "Análisis Matemático" },
-				{ "code": "73", "materia": "Metodología de las Cs. Sociales" },
-				{ "code": "74", "materia": "Historia Econ. y Social Gral." }
+				{ "code": "14", "subjectName": "Sociología" },
+				{ "code": "21", "subjectName": "Economía" },
+				{ "code": "71", "subjectName": "Álgebra" },
+				{ "code": "72", "subjectName": "Análisis Matemático" },
+				{ "code": "73", "subjectName": "Metodología de las Cs. Sociales" },
+				{ "code": "74", "subjectName": "Historia Econ. y Social Gral." }
 			]
 		},
 		{
 			"career": "58 Lic. en Sistemas de Información de las Organizaciones",
 			"subjects": [
-				{ "code": "14", "materia": "Sociología" },
-				{ "code": "21", "materia": "Economía" },
-				{ "code": "71", "materia": "Álgebra" },
-				{ "code": "72", "materia": "Análisis Matemático" },
-				{ "code": "73", "materia": "Metodología de las Cs. Sociales" },
-				{ "code": "74", "materia": "Historia Econ. y Social Gral." }
+				{ "code": "14", "subjectName": "Sociología" },
+				{ "code": "21", "subjectName": "Economía" },
+				{ "code": "71", "subjectName": "Álgebra" },
+				{ "code": "72", "subjectName": "Análisis Matemático" },
+				{ "code": "73", "subjectName": "Metodología de las Cs. Sociales" },
+				{ "code": "74", "subjectName": "Historia Econ. y Social Gral." }
 			]
 		},
 		{
 			"career": "89 Actuario (Economía)",
 			"subjects": [
-				{ "code": "14", "materia": "Sociología" },
-				{ "code": "21", "materia": "Economía" },
-				{ "code": "71", "materia": "Álgebra" },
-				{ "code": "72", "materia": "Análisis Matemático" },
-				{ "code": "73", "materia": "Metodología de las Cs. Sociales" },
-				{ "code": "74", "materia": "Historia Econ. y Social Gral." }
+				{ "code": "14", "subjectName": "Sociología" },
+				{ "code": "21", "subjectName": "Economía" },
+				{ "code": "71", "subjectName": "Álgebra" },
+				{ "code": "72", "subjectName": "Análisis Matemático" },
+				{ "code": "73", "subjectName": "Metodología de las Cs. Sociales" },
+				{ "code": "74", "subjectName": "Historia Econ. y Social Gral." }
 			]
 		}
 	]

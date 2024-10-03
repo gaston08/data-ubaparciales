@@ -4,12 +4,12 @@
 		{
 			"career": "41 Odontología",
 			"subjects": [
-				{ "code": "05", "materia": "Química" },
-				{ "code": "24", "materia": "Sociedad y Estado" },
-				{ "code": "40", "materia": "Pensamiento Científico" },
-				{ "code": "51", "materia": "Matemática" },
-				{ "code": "53", "materia": "Biofísica" },
-				{ "code": "54", "materia": "Biología Celular" }
+				{ "code": "05", "subjectName": "Química" },
+				{ "code": "24", "subjectName": "Sociedad y Estado" },
+				{ "code": "40", "subjectName": "Pensamiento Científico" },
+				{ "code": "51", "subjectName": "Matemática" },
+				{ "code": "53", "subjectName": "Biofísica" },
+				{ "code": "54", "subjectName": "Biología Celular" }
 			]
 		}
 	]
