@@ -150,6 +150,19 @@ export const subjects: Array<selectInterface> = [
 			},
 		],
 	},
+	{
+		code: "22",
+		label: "Ciencia Política (22)",
+		value: "ciencia-politica-(22)",
+		short: "Ciencia Política",
+		long: "Ciencia Política",
+		departments: [
+			{
+				label: "(Cátedra A: Lopreite, Débora)",
+				value: "catedra-a-lopreite-debora",
+			},
+		],
+	},
 ];
 
 /*{
@@ -173,10 +186,6 @@ export const subjects: Array<selectInterface> = [
 	{
 		label: "Biología (08)",
 		value: "biologia-(08)",
-	},
-	{
-		label: "Ciencia Política (22)",
-		value: "ciencia-politica-(22)",
 	},
 	{
 		label: "Economía (21)",
