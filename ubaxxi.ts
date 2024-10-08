@@ -1,7 +1,9 @@
+import { SUBJECTS_ENUM } from "./exam";
+
 export interface selectInterface {
 	code: string;
 	label: string;
-	value: string;
+	value: SUBJECTS_ENUM;
 	short: string;
 	long: string;
 	departments: Array<departmentInterface>;
