@@ -4,9 +4,35 @@ interface selectType {
 }
 
 export enum SUBJECTS_ENUM {
-	PENSAMIENTO_CIENTIFICO = "introduccion-al-pensamiento-cientifico-(40)",
-	SOCIEDAD_Y_ESTADO = "introduccion-al-conocimiento-de-la-sociedad-y-el-estado-(icse)-(24)",
+	ANTROPOLOGIA = "antropologia-(16)",
+	ICSE = "introduccion-al-conocimiento-de-la-sociedad-y-el-estado-(icse)-(24)",
+	IPC = "introduccion-al-pensamiento-cientifico-(40)",
+	PENSAMIENTO_COMPUTACIONAL = "pensamiento-computacional-(90)",
+	DERECHO_PRIVADO = "principios-generales-de-derecho-privado-(89)",
 	TRABAJO_Y_SOCIEDAD = "trabajo-y-sociedad-(70)",
+	SOCIOLOGIA = "sociologia-(14)",
+	BIOLOGIA_54 = "biologia-e-introduccion-a-la-biologia-celular-(54)",
+	BIOLOGIA_91 = "biologia-e-introduccion-a-la-biologia-celular-b-(91)",
+	DDHH = "principios-de-derechos-humanos-y-derecho-constitucional-(50)",
+	CIENCIA_POLITICA = "ciencia-politica-(22)",
+	ALGEBRA = "algebra-(71)",
+	ALGEBRA_A = "algebra-a-(62)",
+	ANALISIS_MATEMATICO = "analisis-matematico-(72)",
+	ANALISIS_MATEMATICO_A = "analisis-matematico-a-(66)",
+	BIOLOGIA_08 = "biologia-(08)",
+	ECONOMIA = "economia-(21)",
+	FILOSOFIA = "filosofia-(42)",
+	FISICA = "fisica-(03)",
+	BIOFISICA = "fisica-e-introduccion-a-la-biofisica-(53)",
+	HESG = "historia-economica-y-social-general-(74)",
+	PROYECTUAL_I = "introduccion-al-conocimiento-proyectual-i-(46)",
+	PROYECTUAL_II = "introduccion-al-conocimiento-proyectual-ii-(47)",
+	MATEMATICA_51 = "matematica-(51)",
+	MATEMATICA_61 = "matematica-(61)",
+	PSICOLOGIA = "psicologia-(15)",
+	QUIMICA = "quimica-(05)",
+	SEMIOLOGIA = "semiologia-(43)",
+	DIBUJO = "taller-de-dibujo-(48)",
 }
 
 export const years: Array<number> = [
