@@ -165,6 +165,19 @@ export const subjects: Array<selectInterface> = [
 			},
 		],
 	},
+	{
+		code: "08",
+		label: "Biología (08)",
+		value: "biologia-(08)",
+		short: "Biologia (08)",
+		long: "Biología (08)",
+		departments: [
+			{
+				label: "(Cátedra Szwarcberg Bracchitta, Mariela)",
+				value: "catedra-szwarcberg-bracchitta-mariela",
+			},
+		],
+	},
 ];
 
 /*{
@@ -185,10 +198,6 @@ export const subjects: Array<selectInterface> = [
 	},*/
 
 /*
-	{
-		label: "Biología (08)",
-		value: "biologia-(08)",
-	},
 	{
 		label: "Economía (21)",
 		value: "economia-(21)",
